@@ -24,7 +24,7 @@ The final stage of the project brought all the obtained data to life with a visu
 The Power BI dashboard includes several charts focused on key metrics to understand the team's performance across all these seasons.
 The dashboard features various filters and buttons to focus the analysis clearly, allowing users to filter the data by competition or by home/away matches.
 
-🎯 Key Questions Addressed
+🎯 Key Questions Addressed: 
 This analysis provides visual answers to several key questions regarding the club's performance over the last decade:
 - Which competition is the one where Atlético de Madrid generally performs best?
 - In which seasons did the team demonstrate the best defense or the best offense?
