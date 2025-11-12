@@ -5,8 +5,8 @@ This project was developed as a practical exercise to cover all the relevant sta
 
 🛠️ Project Stages
 1. Python (Data Acquisition & Initial Processing)
-Web Scraping: Python was used to perform web scraping to obtain all match results for Atlético de Madrid from the 2009/10 season until now.
-Data Source: All results were successfully sourced from the footballdatabase.com website.
+- Web Scraping: Python was used to perform web scraping to obtain all match results for Atlético de Madrid from the 2009/10 season until now.
+- Data Source: All results were successfully sourced from the footballdatabase.com website.
 
 2. Pandas (Data Cleaning & Transformation)
 Once all the results were acquired, the Pandas library was used to clean and transform the data:
