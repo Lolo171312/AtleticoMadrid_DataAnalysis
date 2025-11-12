@@ -23,6 +23,7 @@ Various queries were executed to extract meaningful conclusions and create aggre
 The final stage of the project brought all the obtained data to life with a visual layer for quick and intuitive understanding.
 The Power BI dashboard includes several charts focused on key metrics to understand the team's performance across all these seasons.
 The dashboard features various filters and buttons to focus the analysis clearly, allowing users to filter the data by competition or by home/away matches.
+![alt text](https://github.com/Lolo171312/AtleticoMadrid_DataAnalysis/blob/main/Images/PowerBI_Capture.png?raw=true)
 
 🎯 Key Questions Addressed: 
 This analysis provides visual answers to several key questions regarding the club's performance over the last decade:
