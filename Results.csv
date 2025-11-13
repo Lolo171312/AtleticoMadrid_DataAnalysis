@@ -1,0 +1,783 @@
+Index,Competition,Date,Home_Team,Away_Team,Home_Score,Away_Score,Season,Place,Year,Month,Atletico_Goals,Opponent_Goals,Goal_Difference,Match_Status
+0,Spain Liga,2025-11-01,Atletico Madrid,Sevilla,3,0,2025/26,Home,2025,11,3,0,3,Win
+1,Spain Liga,2025-10-27,Real Betis,Atletico Madrid,0,2,2025/26,Away,2025,10,2,0,2,Win
+2,UEFA Champions League,2025-10-21,Arsenal,Atletico Madrid,4,0,2025/26,Away,2025,10,0,4,-4,Loss
+3,Spain Liga,2025-10-18,Atletico Madrid,Osasuna,1,0,2025/26,Home,2025,10,1,0,1,Win
+4,Spain Liga,2025-10-05,Celta Vigo,Atletico Madrid,1,1,2025/26,Away,2025,10,1,1,0,Draw
+5,UEFA Champions League,2025-09-30,Atletico Madrid,Eintracht Frankfurt,5,1,2025/26,Home,2025,9,5,1,4,Win
+6,Spain Liga,2025-09-27,Atletico Madrid,Real Madrid,5,2,2025/26,Home,2025,9,5,2,3,Win
+7,Spain Liga,2025-09-24,Atletico Madrid,Rayo Vallecano,3,2,2025/26,Home,2025,9,3,2,1,Win
+8,Spain Liga,2025-09-21,Mallorca,Atletico Madrid,1,1,2025/26,Away,2025,9,1,1,0,Draw
+9,UEFA Champions League,2025-09-17,Liverpool FC,Atletico Madrid,3,2,2025/26,Away,2025,9,2,3,-1,Loss
+10,Spain Liga,2025-09-13,Atletico Madrid,Villarreal,2,0,2025/26,Home,2025,9,2,0,2,Win
+11,Spain Liga,2025-08-30,Deportivo Alaves,Atletico Madrid,1,1,2025/26,Away,2025,8,1,1,0,Draw
+12,Spain Liga,2025-08-23,Atletico Madrid,Elche,1,1,2025/26,Home,2025,8,1,1,0,Draw
+13,Spain Liga,2025-08-17,RCD Espanyol,Atletico Madrid,2,1,2025/26,Away,2025,8,1,2,-1,Loss
+14,Spain Liga,2025-05-25,Girona,Atletico Madrid,0,4,2024/25,Away,2025,5,4,0,4,Win
+15,Spain Liga,2025-05-18,Atletico Madrid,Real Betis,4,1,2024/25,Home,2025,5,4,1,3,Win
+16,Spain Liga,2025-05-15,Osasuna,Atletico Madrid,2,0,2024/25,Away,2025,5,0,2,-2,Loss
+17,Spain Liga,2025-05-10,Atletico Madrid,Real Sociedad,4,0,2024/25,Home,2025,5,4,0,4,Win
+18,Spain Liga,2025-05-03,Deportivo Alaves,Atletico Madrid,0,0,2024/25,Away,2025,5,0,0,0,Draw
+19,Spain Liga,2025-04-24,Atletico Madrid,Rayo Vallecano,3,0,2024/25,Home,2025,4,3,0,3,Win
+20,Spain Liga,2025-04-19,Las Palmas,Atletico Madrid,1,0,2024/25,Away,2025,4,0,1,-1,Loss
+21,Spain Liga,2025-04-14,Atletico Madrid,Real Valladolid,4,2,2024/25,Home,2025,4,4,2,2,Win
+22,Spain Liga,2025-04-06,Sevilla,Atletico Madrid,1,2,2024/25,Away,2025,4,2,1,1,Win
+23,Spain Liga,2025-03-29,RCD Espanyol,Atletico Madrid,1,1,2024/25,Away,2025,3,1,1,0,Draw
+24,Spain Liga,2025-03-16,Atletico Madrid,Barcelona,2,4,2024/25,Home,2025,3,2,4,-2,Loss
+25,UEFA Champions League,2025-03-12,Atletico Madrid,Real Madrid,1,0,2024/25,Home,2025,3,1,0,1,Win
+26,Spain Liga,2025-03-09,Getafe,Atletico Madrid,2,1,2024/25,Away,2025,3,1,2,-1,Loss
+27,UEFA Champions League,2025-03-04,Real Madrid,Atletico Madrid,2,1,2024/25,Away,2025,3,1,2,-1,Loss
+28,Spain Liga,2025-03-01,Atletico Madrid,Athletic Bilbao,1,0,2024/25,Home,2025,3,1,0,1,Win
+29,Spain Liga,2025-02-22,Valencia,Atletico Madrid,0,3,2024/25,Away,2025,2,3,0,3,Win
+30,Spain Liga,2025-02-15,Atletico Madrid,Celta Vigo,1,1,2024/25,Home,2025,2,1,1,0,Draw
+31,Spain Liga,2025-02-08,Real Madrid,Atletico Madrid,1,1,2024/25,Away,2025,2,1,1,0,Draw
+32,Spain Liga,2025-02-01,Atletico Madrid,Mallorca,2,0,2024/25,Home,2025,2,2,0,2,Win
+33,UEFA Champions League,2025-01-29,Red Bull Salzburg,Atletico Madrid,1,4,2024/25,Away,2025,1,4,1,3,Win
+34,Spain Liga,2025-01-25,Atletico Madrid,Villarreal,1,1,2024/25,Home,2025,1,1,1,0,Draw
+35,UEFA Champions League,2025-01-21,Atletico Madrid,Bayer Leverkusen,2,1,2024/25,Home,2025,1,2,1,1,Win
+36,Spain Liga,2025-01-18,Leganes,Atletico Madrid,1,0,2024/25,Away,2025,1,0,1,-1,Loss
+37,Spain Liga,2025-01-12,Atletico Madrid,Osasuna,1,0,2024/25,Home,2025,1,1,0,1,Win
+38,Spain Liga,2024-12-21,Barcelona,Atletico Madrid,1,2,2024/25,Away,2024,12,2,1,1,Win
+39,Spain Liga,2024-12-15,Atletico Madrid,Getafe,1,0,2024/25,Home,2024,12,1,0,1,Win
+40,UEFA Champions League,2024-12-11,Atletico Madrid,Slovan Bratislava,3,1,2024/25,Home,2024,12,3,1,2,Win
+41,Spain Liga,2024-12-08,Atletico Madrid,Sevilla,4,3,2024/25,Home,2024,12,4,3,1,Win
+42,Spain Liga,2024-11-30,Real Valladolid,Atletico Madrid,0,5,2024/25,Away,2024,11,5,0,5,Win
+43,UEFA Champions League,2024-11-26,Sparta Prague,Atletico Madrid,0,6,2024/25,Away,2024,11,6,0,6,Win
+44,Spain Liga,2024-11-23,Atletico Madrid,Deportivo Alaves,2,1,2024/25,Home,2024,11,2,1,1,Win
+45,Spain Liga,2024-11-10,Mallorca,Atletico Madrid,0,1,2024/25,Away,2024,11,1,0,1,Win
+46,UEFA Champions League,2024-11-06,Paris Saint-Germain,Atletico Madrid,1,2,2024/25,Away,2024,11,2,1,1,Win
+47,Spain Liga,2024-11-03,Atletico Madrid,Las Palmas,2,0,2024/25,Home,2024,11,2,0,2,Win
+48,Spain Liga,2024-10-27,Real Betis,Atletico Madrid,1,0,2024/25,Away,2024,10,0,1,-1,Loss
+49,UEFA Champions League,2024-10-23,Atletico Madrid,Lille,1,3,2024/25,Home,2024,10,1,3,-2,Loss
+50,Spain Liga,2024-10-20,Atletico Madrid,Leganes,3,1,2024/25,Home,2024,10,3,1,2,Win
+51,Spain Liga,2024-10-06,Real Sociedad,Atletico Madrid,1,1,2024/25,Away,2024,10,1,1,0,Draw
+52,UEFA Champions League,2024-10-02,Benfica,Atletico Madrid,4,0,2024/25,Away,2024,10,0,4,-4,Loss
+53,Spain Liga,2024-09-29,Atletico Madrid,Real Madrid,1,1,2024/25,Home,2024,9,1,1,0,Draw
+54,Spain Liga,2024-09-26,Celta Vigo,Atletico Madrid,0,1,2024/25,Away,2024,9,1,0,1,Win
+55,Spain Liga,2024-09-22,Rayo Vallecano,Atletico Madrid,1,1,2024/25,Away,2024,9,1,1,0,Draw
+56,UEFA Champions League,2024-09-19,Atletico Madrid,RB Leipzig,2,1,2024/25,Home,2024,9,2,1,1,Win
+57,Spain Liga,2024-09-15,Atletico Madrid,Valencia,3,0,2024/25,Home,2024,9,3,0,3,Win
+58,Spain Liga,2024-08-31,Athletic Bilbao,Atletico Madrid,0,1,2024/25,Away,2024,8,1,0,1,Win
+59,Spain Liga,2024-08-28,Atletico Madrid,RCD Espanyol,0,0,2024/25,Home,2024,8,0,0,0,Draw
+60,Spain Liga,2024-08-25,Atletico Madrid,Girona,3,0,2024/25,Home,2024,8,3,0,3,Win
+61,Spain Liga,2024-08-19,Villarreal,Atletico Madrid,2,2,2024/25,Away,2024,8,2,2,0,Draw
+62,Spain Liga,2024-05-25,Real Sociedad,Atletico Madrid,0,2,2023/24,Away,2024,5,2,0,2,Win
+63,Spain Liga,2024-05-19,Atletico Madrid,Osasuna,1,4,2023/24,Home,2024,5,1,4,-3,Loss
+64,Spain Liga,2024-05-15,Getafe,Atletico Madrid,0,3,2023/24,Away,2024,5,3,0,3,Win
+65,Spain Liga,2024-05-12,Atletico Madrid,Celta Vigo,1,0,2023/24,Home,2024,5,1,0,1,Win
+66,Spain Liga,2024-05-04,Mallorca,Atletico Madrid,0,1,2023/24,Away,2024,5,1,0,1,Win
+67,Spain Liga,2024-04-27,Atletico Madrid,Athletic Bilbao,3,1,2023/24,Home,2024,4,3,1,2,Win
+68,Spain Liga,2024-04-21,Deportivo Alaves,Atletico Madrid,2,0,2023/24,Away,2024,4,0,2,-2,Loss
+69,Spain Liga,2024-04-13,Atletico Madrid,Girona,3,1,2023/24,Home,2024,4,3,1,2,Win
+70,Spain Liga,2024-04-01,Villarreal,Atletico Madrid,1,2,2023/24,Away,2024,4,2,1,1,Win
+71,Spain Liga,2024-03-17,Atletico Madrid,Barcelona,0,3,2023/24,Home,2024,3,0,3,-3,Loss
+72,Spain Liga,2024-03-09,Cadiz CF,Atletico Madrid,2,0,2023/24,Away,2024,3,0,2,-2,Loss
+73,Spain Liga,2024-03-03,Atletico Madrid,Real Betis,2,1,2023/24,Home,2024,3,2,1,1,Win
+74,Spain Liga,2024-02-24,Almeria,Atletico Madrid,2,2,2023/24,Away,2024,2,2,2,0,Draw
+75,Spain Liga,2024-02-17,Atletico Madrid,Las Palmas,5,0,2023/24,Home,2024,2,5,0,5,Win
+76,Spain Liga,2024-02-11,Sevilla,Atletico Madrid,1,0,2023/24,Away,2024,2,0,1,-1,Loss
+77,Spain Liga,2024-02-04,Real Madrid,Atletico Madrid,1,1,2023/24,Away,2024,2,1,1,0,Draw
+78,Spain Liga,2024-01-31,Atletico Madrid,Rayo Vallecano,2,1,2023/24,Home,2024,1,2,1,1,Win
+79,Spain Liga,2024-01-28,Atletico Madrid,Valencia,2,0,2023/24,Home,2024,1,2,0,2,Win
+80,Spain Liga,2024-01-22,Granada,Atletico Madrid,0,1,2023/24,Away,2024,1,1,0,1,Win
+81,Spain Liga,2024-01-03,Girona,Atletico Madrid,4,3,2023/24,Away,2024,1,3,4,-1,Loss
+82,Spain Liga,2023-12-23,Atletico Madrid,Sevilla,1,0,2023/24,Home,2023,12,1,0,1,Win
+83,Spain Liga,2023-12-19,Atletico Madrid,Getafe,3,3,2023/24,Home,2023,12,3,3,0,Draw
+84,Spain Liga,2023-12-16,Athletic Bilbao,Atletico Madrid,2,0,2023/24,Away,2023,12,0,2,-2,Loss
+85,Spain Liga,2023-12-10,Atletico Madrid,Almeria,2,1,2023/24,Home,2023,12,2,1,1,Win
+86,Spain Liga,2023-12-03,Barcelona,Atletico Madrid,1,0,2023/24,Away,2023,12,0,1,-1,Loss
+87,Spain Liga,2023-11-25,Atletico Madrid,Mallorca,1,0,2023/24,Home,2023,11,1,0,1,Win
+88,Spain Liga,2023-11-12,Atletico Madrid,Villarreal,3,1,2023/24,Home,2023,11,3,1,2,Win
+89,Spain Liga,2023-11-03,Las Palmas,Atletico Madrid,2,1,2023/24,Away,2023,11,1,2,-1,Loss
+90,Spain Liga,2023-10-29,Atletico Madrid,Deportivo Alaves,2,1,2023/24,Home,2023,10,2,1,1,Win
+91,Spain Liga,2023-10-21,Celta Vigo,Atletico Madrid,0,3,2023/24,Away,2023,10,3,0,3,Win
+92,Spain Liga,2023-10-08,Atletico Madrid,Real Sociedad,2,1,2023/24,Home,2023,10,2,1,1,Win
+93,Spain Liga,2023-10-01,Atletico Madrid,Cadiz CF,3,2,2023/24,Home,2023,10,3,2,1,Win
+94,Spain Liga,2023-09-28,Osasuna,Atletico Madrid,0,2,2023/24,Away,2023,9,2,0,2,Win
+95,Spain Liga,2023-09-24,Atletico Madrid,Real Madrid,3,1,2023/24,Home,2023,9,3,1,2,Win
+96,Spain Liga,2023-09-16,Valencia,Atletico Madrid,3,0,2023/24,Away,2023,9,0,3,-3,Loss
+97,Spain Liga,2023-08-28,Rayo Vallecano,Atletico Madrid,0,7,2023/24,Away,2023,8,7,0,7,Win
+98,Spain Liga,2023-08-20,Real Betis,Atletico Madrid,0,0,2023/24,Away,2023,8,0,0,0,Draw
+99,Spain Liga,2023-08-14,Atletico Madrid,Granada,3,1,2023/24,Home,2023,8,3,1,2,Win
+100,Spain Liga,2023-06-04,Villarreal,Atletico Madrid,2,2,2022/23,Away,2023,6,2,2,0,Draw
+101,Spain Liga,2023-05-28,Atletico Madrid,Real Sociedad,2,1,2022/23,Home,2023,5,2,1,1,Win
+102,Spain Liga,2023-05-24,RCD Espanyol,Atletico Madrid,3,3,2022/23,Away,2023,5,3,3,0,Draw
+103,Spain Liga,2023-05-21,Atletico Madrid,Osasuna,3,0,2022/23,Home,2023,5,3,0,3,Win
+104,Spain Liga,2023-05-14,Elche,Atletico Madrid,1,0,2022/23,Away,2023,5,0,1,-1,Loss
+105,Spain Liga,2023-05-03,Atletico Madrid,Cadiz CF,5,1,2022/23,Home,2023,5,5,1,4,Win
+106,Spain Liga,2023-04-30,Real Valladolid,Atletico Madrid,2,5,2022/23,Away,2023,4,5,2,3,Win
+107,Spain Liga,2023-04-26,Atletico Madrid,Mallorca,3,1,2022/23,Home,2023,4,3,1,2,Win
+108,Spain Liga,2023-04-23,Barcelona,Atletico Madrid,1,0,2022/23,Away,2023,4,0,1,-1,Loss
+109,Spain Liga,2023-04-16,Atletico Madrid,Almeria,2,1,2022/23,Home,2023,4,2,1,1,Win
+110,Spain Liga,2023-04-09,Rayo Vallecano,Atletico Madrid,1,2,2022/23,Away,2023,4,2,1,1,Win
+111,Spain Liga,2023-04-02,Atletico Madrid,Real Betis,1,0,2022/23,Home,2023,4,1,0,1,Win
+112,Spain Liga,2023-03-18,Atletico Madrid,Valencia,3,0,2022/23,Home,2023,3,3,0,3,Win
+113,Spain Liga,2023-03-13,Girona,Atletico Madrid,0,1,2022/23,Away,2023,3,1,0,1,Win
+114,Spain Liga,2023-03-04,Atletico Madrid,Sevilla,6,1,2022/23,Home,2023,3,6,1,5,Win
+115,Spain Liga,2023-02-25,Real Madrid,Atletico Madrid,1,1,2022/23,Away,2023,2,1,1,0,Draw
+116,Spain Liga,2023-02-19,Atletico Madrid,Athletic Bilbao,1,0,2022/23,Home,2023,2,1,0,1,Win
+117,Spain Liga,2023-02-12,Celta Vigo,Atletico Madrid,0,1,2022/23,Away,2023,2,1,0,1,Win
+118,Spain Liga,2023-02-04,Atletico Madrid,Getafe,1,1,2022/23,Home,2023,2,1,1,0,Draw
+119,Spain Liga,2023-01-29,Osasuna,Atletico Madrid,0,1,2022/23,Away,2023,1,1,0,1,Win
+120,Spain Liga,2023-01-21,Atletico Madrid,Real Valladolid,3,0,2022/23,Home,2023,1,3,0,3,Win
+121,Spain Liga,2023-01-15,Almeria,Atletico Madrid,1,1,2022/23,Away,2023,1,1,1,0,Draw
+122,Spain Liga,2023-01-08,Atletico Madrid,Barcelona,0,1,2022/23,Home,2023,1,0,1,-1,Loss
+123,Spain Liga,2022-12-29,Atletico Madrid,Elche,2,0,2022/23,Home,2022,12,2,0,2,Win
+124,Spain Liga,2022-11-09,Mallorca,Atletico Madrid,1,0,2022/23,Away,2022,11,0,1,-1,Loss
+125,Spain Liga,2022-11-06,Atletico Madrid,RCD Espanyol,1,1,2022/23,Home,2022,11,1,1,0,Draw
+126,UEFA Champions League,2022-11-01,FC Porto,Atletico Madrid,2,1,2022/23,Away,2022,11,1,2,-1,Loss
+127,Spain Liga,2022-10-29,Cadiz CF,Atletico Madrid,3,2,2022/23,Away,2022,10,2,3,-1,Loss
+128,UEFA Champions League,2022-10-26,Atletico Madrid,Bayer Leverkusen,2,2,2022/23,Home,2022,10,2,2,0,Draw
+129,Spain Liga,2022-10-23,Real Betis,Atletico Madrid,1,2,2022/23,Away,2022,10,2,1,1,Win
+130,Spain Liga,2022-10-18,Atletico Madrid,Rayo Vallecano,1,1,2022/23,Home,2022,10,1,1,0,Draw
+131,Spain Liga,2022-10-15,Athletic Bilbao,Atletico Madrid,0,1,2022/23,Away,2022,10,1,0,1,Win
+132,UEFA Champions League,2022-10-12,Atletico Madrid,Club Brugge,0,0,2022/23,Home,2022,10,0,0,0,Draw
+133,Spain Liga,2022-10-08,Atletico Madrid,Girona,2,1,2022/23,Home,2022,10,2,1,1,Win
+134,UEFA Champions League,2022-10-04,Club Brugge,Atletico Madrid,2,0,2022/23,Away,2022,10,0,2,-2,Loss
+135,Spain Liga,2022-10-01,Sevilla,Atletico Madrid,0,2,2022/23,Away,2022,10,2,0,2,Win
+136,Spain Liga,2022-09-18,Atletico Madrid,Real Madrid,1,2,2022/23,Home,2022,9,1,2,-1,Loss
+137,UEFA Champions League,2022-09-13,Bayer Leverkusen,Atletico Madrid,2,0,2022/23,Away,2022,9,0,2,-2,Loss
+138,Spain Liga,2022-09-10,Atletico Madrid,Celta Vigo,4,1,2022/23,Home,2022,9,4,1,3,Win
+139,UEFA Champions League,2022-09-07,Atletico Madrid,FC Porto,2,1,2022/23,Home,2022,9,2,1,1,Win
+140,Spain Liga,2022-09-03,Real Sociedad,Atletico Madrid,1,1,2022/23,Away,2022,9,1,1,0,Draw
+141,Spain Liga,2022-08-29,Valencia,Atletico Madrid,0,1,2022/23,Away,2022,8,1,0,1,Win
+142,Spain Liga,2022-08-21,Atletico Madrid,Villarreal,0,2,2022/23,Home,2022,8,0,2,-2,Loss
+143,Spain Liga,2022-08-15,Getafe,Atletico Madrid,0,3,2022/23,Away,2022,8,3,0,3,Win
+144,Spain Liga,2022-05-22,Real Sociedad,Atletico Madrid,1,2,2021/22,Away,2022,5,2,1,1,Win
+145,Spain Liga,2022-05-15,Atletico Madrid,Sevilla,1,1,2021/22,Home,2022,5,1,1,0,Draw
+146,Spain Liga,2022-05-11,Elche,Atletico Madrid,0,2,2021/22,Away,2022,5,2,0,2,Win
+147,Spain Liga,2022-05-08,Atletico Madrid,Real Madrid,1,0,2021/22,Home,2022,5,1,0,1,Win
+148,Spain Liga,2022-04-30,Athletic Bilbao,Atletico Madrid,2,0,2021/22,Away,2022,4,0,2,-2,Loss
+149,Spain Liga,2022-04-20,Atletico Madrid,Granada,0,0,2021/22,Home,2022,4,0,0,0,Draw
+150,Spain Liga,2022-04-17,Atletico Madrid,RCD Espanyol,2,1,2021/22,Home,2022,4,2,1,1,Win
+151,UEFA Champions League,2022-04-13,Atletico Madrid,Manchester City,0,0,2021/22,Home,2022,4,0,0,0,Draw
+152,Spain Liga,2022-04-09,Mallorca,Atletico Madrid,1,0,2021/22,Away,2022,4,0,1,-1,Loss
+153,UEFA Champions League,2022-04-05,Manchester City,Atletico Madrid,1,0,2021/22,Away,2022,4,0,1,-1,Loss
+154,Spain Liga,2022-04-02,Atletico Madrid,Deportivo Alaves,4,1,2021/22,Home,2022,4,4,1,3,Win
+155,Spain Liga,2022-03-19,Rayo Vallecano,Atletico Madrid,0,1,2021/22,Away,2022,3,1,0,1,Win
+156,UEFA Champions League,2022-03-15,Manchester United,Atletico Madrid,0,1,2021/22,Away,2022,3,1,0,1,Win
+157,Spain Liga,2022-03-11,Atletico Madrid,Cadiz CF,2,1,2021/22,Home,2022,3,2,1,1,Win
+158,Spain Liga,2022-03-06,Real Betis,Atletico Madrid,1,3,2021/22,Away,2022,3,3,1,2,Win
+159,Spain Liga,2022-02-26,Atletico Madrid,Celta Vigo,2,0,2021/22,Home,2022,2,2,0,2,Win
+160,UEFA Champions League,2022-02-23,Atletico Madrid,Manchester United,1,1,2021/22,Home,2022,2,1,1,0,Draw
+161,Spain Liga,2022-02-19,Osasuna,Atletico Madrid,0,3,2021/22,Away,2022,2,3,0,3,Win
+162,Spain Liga,2022-02-16,Atletico Madrid,Levante,0,1,2021/22,Home,2022,2,0,1,-1,Loss
+163,Spain Liga,2022-02-12,Atletico Madrid,Getafe,4,3,2021/22,Home,2022,2,4,3,1,Win
+164,Spain Liga,2022-02-06,Barcelona,Atletico Madrid,4,2,2021/22,Away,2022,2,2,4,-2,Loss
+165,Spain Liga,2022-01-22,Atletico Madrid,Valencia,3,2,2021/22,Home,2022,1,3,2,1,Win
+166,Spain Liga,2022-01-09,Villarreal,Atletico Madrid,2,2,2021/22,Away,2022,1,2,2,0,Draw
+167,Spain Liga,2022-01-02,Atletico Madrid,Rayo Vallecano,2,0,2021/22,Home,2022,1,2,0,2,Win
+168,Spain Liga,2021-12-22,Granada,Atletico Madrid,2,1,2021/22,Away,2021,12,1,2,-1,Loss
+169,Spain Liga,2021-12-18,Sevilla,Atletico Madrid,2,1,2021/22,Away,2021,12,1,2,-1,Loss
+170,Spain Liga,2021-12-12,Real Madrid,Atletico Madrid,2,0,2021/22,Away,2021,12,0,2,-2,Loss
+171,UEFA Champions League,2021-12-07,FC Porto,Atletico Madrid,1,3,2021/22,Away,2021,12,3,1,2,Win
+172,Spain Liga,2021-12-04,Atletico Madrid,Mallorca,1,2,2021/22,Home,2021,12,1,2,-1,Loss
+173,Spain Liga,2021-11-28,Cadiz CF,Atletico Madrid,1,4,2021/22,Away,2021,11,4,1,3,Win
+174,UEFA Champions League,2021-11-24,Atletico Madrid,AC Milan,0,1,2021/22,Home,2021,11,0,1,-1,Loss
+175,Spain Liga,2021-11-20,Atletico Madrid,Osasuna,1,0,2021/22,Home,2021,11,1,0,1,Win
+176,Spain Liga,2021-11-07,Valencia,Atletico Madrid,3,3,2021/22,Away,2021,11,3,3,0,Draw
+177,UEFA Champions League,2021-11-03,Liverpool FC,Atletico Madrid,2,0,2021/22,Away,2021,11,0,2,-2,Loss
+178,Spain Liga,2021-10-31,Atletico Madrid,Real Betis,3,0,2021/22,Home,2021,10,3,0,3,Win
+179,Spain Liga,2021-10-28,Levante,Atletico Madrid,2,2,2021/22,Away,2021,10,2,2,0,Draw
+180,Spain Liga,2021-10-24,Atletico Madrid,Real Sociedad,2,2,2021/22,Home,2021,10,2,2,0,Draw
+181,UEFA Champions League,2021-10-19,Atletico Madrid,Liverpool FC,2,3,2021/22,Home,2021,10,2,3,-1,Loss
+182,Spain Liga,2021-10-02,Atletico Madrid,Barcelona,2,0,2021/22,Home,2021,10,2,0,2,Win
+183,UEFA Champions League,2021-09-28,AC Milan,Atletico Madrid,1,2,2021/22,Away,2021,9,2,1,1,Win
+184,Spain Liga,2021-09-25,Deportivo Alaves,Atletico Madrid,1,0,2021/22,Away,2021,9,0,1,-1,Loss
+185,Spain Liga,2021-09-21,Getafe,Atletico Madrid,1,2,2021/22,Away,2021,9,2,1,1,Win
+186,Spain Liga,2021-09-18,Atletico Madrid,Athletic Bilbao,0,0,2021/22,Home,2021,9,0,0,0,Draw
+187,UEFA Champions League,2021-09-15,Atletico Madrid,FC Porto,0,0,2021/22,Home,2021,9,0,0,0,Draw
+188,Spain Liga,2021-09-12,RCD Espanyol,Atletico Madrid,1,2,2021/22,Away,2021,9,2,1,1,Win
+189,Spain Liga,2021-08-29,Atletico Madrid,Villarreal,2,2,2021/22,Home,2021,8,2,2,0,Draw
+190,Spain Liga,2021-08-22,Atletico Madrid,Elche,1,0,2021/22,Home,2021,8,1,0,1,Win
+191,Spain Liga,2021-08-15,Celta Vigo,Atletico Madrid,1,2,2021/22,Away,2021,8,2,1,1,Win
+192,Spain Liga,2021-05-22,Real Valladolid,Atletico Madrid,1,2,2020/21,Away,2021,5,2,1,1,Win
+193,Spain Liga,2021-05-16,Atletico Madrid,Osasuna,2,1,2020/21,Home,2021,5,2,1,1,Win
+194,Spain Liga,2021-05-12,Atletico Madrid,Real Sociedad,2,1,2020/21,Home,2021,5,2,1,1,Win
+195,Spain Liga,2021-05-08,Barcelona,Atletico Madrid,0,0,2020/21,Away,2021,5,0,0,0,Draw
+196,Spain Liga,2021-05-01,Elche,Atletico Madrid,0,1,2020/21,Away,2021,5,1,0,1,Win
+197,Spain Liga,2021-04-25,Athletic Bilbao,Atletico Madrid,2,1,2020/21,Away,2021,4,1,2,-1,Loss
+198,Spain Liga,2021-04-22,Atletico Madrid,SD Huesca,2,0,2020/21,Home,2021,4,2,0,2,Win
+199,Spain Liga,2021-04-18,Atletico Madrid,Eibar,5,0,2020/21,Home,2021,4,5,0,5,Win
+200,Spain Liga,2021-04-11,Real Betis,Atletico Madrid,1,1,2020/21,Away,2021,4,1,1,0,Draw
+201,Spain Liga,2021-04-04,Sevilla,Atletico Madrid,1,0,2020/21,Away,2021,4,0,1,-1,Loss
+202,Spain Liga,2021-03-21,Atletico Madrid,Deportivo Alaves,1,0,2020/21,Home,2021,3,1,0,1,Win
+203,UEFA Champions League,2021-03-17,Chelsea FC,Atletico Madrid,2,0,2020/21,Away,2021,3,0,2,-2,Loss
+204,Spain Liga,2021-03-13,Getafe,Atletico Madrid,0,0,2020/21,Away,2021,3,0,0,0,Draw
+205,Spain Liga,2021-03-10,Atletico Madrid,Athletic Bilbao,2,1,2020/21,Home,2021,3,2,1,1,Win
+206,Spain Liga,2021-03-07,Atletico Madrid,Real Madrid,1,1,2020/21,Home,2021,3,1,1,0,Draw
+207,Spain Liga,2021-02-28,Villarreal,Atletico Madrid,0,2,2020/21,Away,2021,2,2,0,2,Win
+208,UEFA Champions League,2021-02-23,Atletico Madrid,Chelsea FC,0,1,2020/21,Home,2021,2,0,1,-1,Loss
+209,Spain Liga,2021-02-20,Atletico Madrid,Levante,0,2,2020/21,Home,2021,2,0,2,-2,Loss
+210,Spain Liga,2021-02-17,Levante,Atletico Madrid,1,1,2020/21,Away,2021,2,1,1,0,Draw
+211,Spain Liga,2021-02-13,Granada,Atletico Madrid,1,2,2020/21,Away,2021,2,2,1,1,Win
+212,Spain Liga,2021-02-08,Atletico Madrid,Celta Vigo,2,2,2020/21,Home,2021,2,2,2,0,Draw
+213,Spain Liga,2021-01-31,Cadiz CF,Atletico Madrid,2,4,2020/21,Away,2021,1,4,2,2,Win
+214,Spain Liga,2021-01-24,Atletico Madrid,Valencia,3,1,2020/21,Home,2021,1,3,1,2,Win
+215,Spain Liga,2021-01-21,Eibar,Atletico Madrid,1,2,2020/21,Away,2021,1,2,1,1,Win
+216,Spain Liga,2021-01-12,Atletico Madrid,Sevilla,2,0,2020/21,Home,2021,1,2,0,2,Win
+217,Spain Liga,2021-01-03,Deportivo Alaves,Atletico Madrid,1,2,2020/21,Away,2021,1,2,1,1,Win
+218,Spain Liga,2020-12-30,Atletico Madrid,Getafe,1,0,2020/21,Home,2020,12,1,0,1,Win
+219,Spain Liga,2020-12-22,Real Sociedad,Atletico Madrid,0,2,2020/21,Away,2020,12,2,0,2,Win
+220,Spain Liga,2020-12-19,Atletico Madrid,Elche,3,1,2020/21,Home,2020,12,3,1,2,Win
+221,Spain Liga,2020-12-12,Real Madrid,Atletico Madrid,2,0,2020/21,Away,2020,12,0,2,-2,Loss
+222,UEFA Champions League,2020-12-09,Red Bull Salzburg,Atletico Madrid,0,2,2020/21,Away,2020,12,2,0,2,Win
+223,Spain Liga,2020-12-05,Atletico Madrid,Real Valladolid,2,0,2020/21,Home,2020,12,2,0,2,Win
+224,UEFA Champions League,2020-12-01,Atletico Madrid,Bayern München,1,1,2020/21,Home,2020,12,1,1,0,Draw
+225,Spain Liga,2020-11-28,Valencia,Atletico Madrid,0,1,2020/21,Away,2020,11,1,0,1,Win
+226,UEFA Champions League,2020-11-25,Atletico Madrid,Lokomotiv Moskva,0,0,2020/21,Home,2020,11,0,0,0,Draw
+227,Spain Liga,2020-11-21,Atletico Madrid,Barcelona,1,0,2020/21,Home,2020,11,1,0,1,Win
+228,Spain Liga,2020-11-07,Atletico Madrid,Cadiz CF,4,0,2020/21,Home,2020,11,4,0,4,Win
+229,UEFA Champions League,2020-11-03,Lokomotiv Moskva,Atletico Madrid,1,1,2020/21,Away,2020,11,1,1,0,Draw
+230,Spain Liga,2020-10-31,Osasuna,Atletico Madrid,1,3,2020/21,Away,2020,10,3,1,2,Win
+231,UEFA Champions League,2020-10-27,Atletico Madrid,Red Bull Salzburg,3,2,2020/21,Home,2020,10,3,2,1,Win
+232,Spain Liga,2020-10-24,Atletico Madrid,Real Betis,2,0,2020/21,Home,2020,10,2,0,2,Win
+233,UEFA Champions League,2020-10-21,Bayern München,Atletico Madrid,4,0,2020/21,Away,2020,10,0,4,-4,Loss
+234,Spain Liga,2020-10-17,Celta Vigo,Atletico Madrid,0,2,2020/21,Away,2020,10,2,0,2,Win
+235,Spain Liga,2020-10-03,Atletico Madrid,Villarreal,0,0,2020/21,Home,2020,10,0,0,0,Draw
+236,Spain Liga,2020-09-30,SD Huesca,Atletico Madrid,0,0,2020/21,Away,2020,9,0,0,0,Draw
+237,Spain Liga,2020-09-27,Atletico Madrid,Granada,6,1,2020/21,Home,2020,9,6,1,5,Win
+238,UEFA Champions League,2020-08-13,RB Leipzig,Atletico Madrid,2,1,2019/20,Away,2020,8,1,2,-1,Loss
+239,Spain Liga,2020-07-19,Atletico Madrid,Real Sociedad,1,1,2019/20,Home,2020,7,1,1,0,Draw
+240,Spain Liga,2020-07-16,Getafe,Atletico Madrid,0,2,2019/20,Away,2020,7,2,0,2,Win
+241,Spain Liga,2020-07-11,Atletico Madrid,Real Betis,1,0,2019/20,Home,2020,7,1,0,1,Win
+242,Spain Liga,2020-07-07,Celta Vigo,Atletico Madrid,1,1,2019/20,Away,2020,7,1,1,0,Draw
+243,Spain Liga,2020-07-03,Atletico Madrid,Mallorca,3,0,2019/20,Home,2020,7,3,0,3,Win
+244,Spain Liga,2020-06-30,Barcelona,Atletico Madrid,2,2,2019/20,Away,2020,6,2,2,0,Draw
+245,Spain Liga,2020-06-27,Atletico Madrid,Getafe,2,1,2019/20,Home,2020,6,2,1,1,Win
+246,Spain Liga,2020-06-23,Levante,Atletico Madrid,0,1,2019/20,Away,2020,6,1,0,1,Win
+247,Spain Liga,2020-06-20,Atletico Madrid,Real Valladolid,1,0,2019/20,Home,2020,6,1,0,1,Win
+248,Spain Liga,2020-06-17,Osasuna,Atletico Madrid,0,5,2019/20,Away,2020,6,5,0,5,Win
+249,Spain Liga,2020-06-14,Athletic Bilbao,Atletico Madrid,1,1,2019/20,Away,2020,6,1,1,0,Draw
+250,UEFA Champions League,2020-03-11,Liverpool FC,Atletico Madrid,2,3,2019/20,Away,2020,3,3,2,1,Win
+251,Spain Liga,2020-03-07,Atletico Madrid,Sevilla,2,2,2019/20,Home,2020,3,2,2,0,Draw
+252,Spain Liga,2020-03-01,RCD Espanyol,Atletico Madrid,1,1,2019/20,Away,2020,3,1,1,0,Draw
+253,Spain Liga,2020-02-23,Atletico Madrid,Villarreal,3,1,2019/20,Home,2020,2,3,1,2,Win
+254,UEFA Champions League,2020-02-18,Atletico Madrid,Liverpool FC,1,0,2019/20,Home,2020,2,1,0,1,Win
+255,Spain Liga,2020-02-14,Valencia,Atletico Madrid,2,2,2019/20,Away,2020,2,2,2,0,Draw
+256,Spain Liga,2020-02-08,Atletico Madrid,Granada,1,0,2019/20,Home,2020,2,1,0,1,Win
+257,Spain Liga,2020-02-01,Real Madrid,Atletico Madrid,1,0,2019/20,Away,2020,2,0,1,-1,Loss
+258,Spain Liga,2020-01-26,Atletico Madrid,Leganes,0,0,2019/20,Home,2020,1,0,0,0,Draw
+259,Spain Liga,2020-01-18,Eibar,Atletico Madrid,2,0,2019/20,Away,2020,1,0,2,-2,Loss
+260,Spain Liga,2020-01-04,Atletico Madrid,Levante,2,1,2019/20,Home,2020,1,2,1,1,Win
+261,Spain Liga,2019-12-22,Real Betis,Atletico Madrid,1,2,2019/20,Away,2019,12,2,1,1,Win
+262,Spain Liga,2019-12-14,Atletico Madrid,Osasuna,2,0,2019/20,Home,2019,12,2,0,2,Win
+263,UEFA Champions League,2019-12-11,Atletico Madrid,Lokomotiv Moskva,2,0,2019/20,Home,2019,12,2,0,2,Win
+264,Spain Liga,2019-12-06,Villarreal,Atletico Madrid,0,0,2019/20,Away,2019,12,0,0,0,Draw
+265,Spain Liga,2019-12-01,Atletico Madrid,Barcelona,0,1,2019/20,Home,2019,12,0,1,-1,Loss
+266,UEFA Champions League,2019-11-26,Juventus,Atletico Madrid,1,0,2019/20,Away,2019,11,0,1,-1,Loss
+267,Spain Liga,2019-11-23,Granada,Atletico Madrid,1,1,2019/20,Away,2019,11,1,1,0,Draw
+268,Spain Liga,2019-11-10,Atletico Madrid,RCD Espanyol,3,1,2019/20,Home,2019,11,3,1,2,Win
+269,UEFA Champions League,2019-11-06,Bayer Leverkusen,Atletico Madrid,2,1,2019/20,Away,2019,11,1,2,-1,Loss
+270,Spain Liga,2019-11-02,Sevilla,Atletico Madrid,1,1,2019/20,Away,2019,11,1,1,0,Draw
+271,Spain Liga,2019-10-29,Deportivo Alaves,Atletico Madrid,1,1,2019/20,Away,2019,10,1,1,0,Draw
+272,Spain Liga,2019-10-26,Atletico Madrid,Athletic Bilbao,2,0,2019/20,Home,2019,10,2,0,2,Win
+273,UEFA Champions League,2019-10-22,Atletico Madrid,Bayer Leverkusen,1,0,2019/20,Home,2019,10,1,0,1,Win
+274,Spain Liga,2019-10-19,Atletico Madrid,Valencia,1,1,2019/20,Home,2019,10,1,1,0,Draw
+275,Spain Liga,2019-10-06,Real Valladolid,Atletico Madrid,0,0,2019/20,Away,2019,10,0,0,0,Draw
+276,UEFA Champions League,2019-10-01,Lokomotiv Moskva,Atletico Madrid,0,2,2019/20,Away,2019,10,2,0,2,Win
+277,Spain Liga,2019-09-28,Atletico Madrid,Real Madrid,0,0,2019/20,Home,2019,9,0,0,0,Draw
+278,Spain Liga,2019-09-25,Mallorca,Atletico Madrid,0,2,2019/20,Away,2019,9,2,0,2,Win
+279,Spain Liga,2019-09-21,Atletico Madrid,Celta Vigo,0,0,2019/20,Home,2019,9,0,0,0,Draw
+280,UEFA Champions League,2019-09-18,Atletico Madrid,Juventus,2,2,2019/20,Home,2019,9,2,2,0,Draw
+281,Spain Liga,2019-09-14,Real Sociedad,Atletico Madrid,2,0,2019/20,Away,2019,9,0,2,-2,Loss
+282,Spain Liga,2019-09-01,Atletico Madrid,Eibar,3,2,2019/20,Home,2019,9,3,2,1,Win
+283,Spain Liga,2019-08-25,Leganes,Atletico Madrid,0,1,2019/20,Away,2019,8,1,0,1,Win
+284,Spain Liga,2019-08-18,Atletico Madrid,Getafe,1,0,2019/20,Home,2019,8,1,0,1,Win
+285,Spain Liga,2019-05-18,Levante,Atletico Madrid,2,2,2018/19,Away,2019,5,2,2,0,Draw
+286,Spain Liga,2019-05-12,Atletico Madrid,Sevilla,1,1,2018/19,Home,2019,5,1,1,0,Draw
+287,Spain Liga,2019-05-04,RCD Espanyol,Atletico Madrid,3,0,2018/19,Away,2019,5,0,3,-3,Loss
+288,Spain Liga,2019-04-27,Atletico Madrid,Real Valladolid,1,0,2018/19,Home,2019,4,1,0,1,Win
+289,Spain Liga,2019-04-24,Atletico Madrid,Valencia,3,2,2018/19,Home,2019,4,3,2,1,Win
+290,Spain Liga,2019-04-20,Eibar,Atletico Madrid,0,1,2018/19,Away,2019,4,1,0,1,Win
+291,Spain Liga,2019-04-13,Atletico Madrid,Celta Vigo,2,0,2018/19,Home,2019,4,2,0,2,Win
+292,Spain Liga,2019-04-06,Barcelona,Atletico Madrid,2,0,2018/19,Away,2019,4,0,2,-2,Loss
+293,Spain Liga,2019-04-02,Atletico Madrid,Girona,2,0,2018/19,Home,2019,4,2,0,2,Win
+294,Spain Liga,2019-03-30,Deportivo Alaves,Atletico Madrid,0,4,2018/19,Away,2019,3,4,0,4,Win
+295,Spain Liga,2019-03-16,Athletic Bilbao,Atletico Madrid,2,0,2018/19,Away,2019,3,0,2,-2,Loss
+296,UEFA Champions League,2019-03-12,Juventus,Atletico Madrid,3,0,2018/19,Away,2019,3,0,3,-3,Loss
+297,Spain Liga,2019-03-09,Atletico Madrid,Leganes,1,0,2018/19,Home,2019,3,1,0,1,Win
+298,Spain Liga,2019-03-03,Real Sociedad,Atletico Madrid,0,2,2018/19,Away,2019,3,2,0,2,Win
+299,Spain Liga,2019-02-24,Atletico Madrid,Villarreal,2,0,2018/19,Home,2019,2,2,0,2,Win
+300,UEFA Champions League,2019-02-20,Atletico Madrid,Juventus,2,0,2018/19,Home,2019,2,2,0,2,Win
+301,Spain Liga,2019-02-16,Rayo Vallecano,Atletico Madrid,0,1,2018/19,Away,2019,2,1,0,1,Win
+302,Spain Liga,2019-02-09,Atletico Madrid,Real Madrid,1,3,2018/19,Home,2019,2,1,3,-2,Loss
+303,Spain Liga,2019-02-03,Real Betis,Atletico Madrid,1,0,2018/19,Away,2019,2,0,1,-1,Loss
+304,Spain Liga,2019-01-26,Atletico Madrid,Getafe,2,0,2018/19,Home,2019,1,2,0,2,Win
+305,Spain Liga,2019-01-19,SD Huesca,Atletico Madrid,0,3,2018/19,Away,2019,1,3,0,3,Win
+306,Spain Liga,2019-01-13,Atletico Madrid,Levante,1,0,2018/19,Home,2019,1,1,0,1,Win
+307,Spain Liga,2019-01-06,Sevilla,Atletico Madrid,1,1,2018/19,Away,2019,1,1,1,0,Draw
+308,Spain Liga,2018-12-22,Atletico Madrid,RCD Espanyol,1,0,2018/19,Home,2018,12,1,0,1,Win
+309,Spain Liga,2018-12-15,Real Valladolid,Atletico Madrid,2,3,2018/19,Away,2018,12,3,2,1,Win
+310,UEFA Champions League,2018-12-11,Club Brugge,Atletico Madrid,0,0,2018/19,Away,2018,12,0,0,0,Draw
+311,Spain Liga,2018-12-08,Atletico Madrid,Deportivo Alaves,3,0,2018/19,Home,2018,12,3,0,3,Win
+312,Spain Liga,2018-12-02,Girona,Atletico Madrid,1,1,2018/19,Away,2018,12,1,1,0,Draw
+313,UEFA Champions League,2018-11-28,Atletico Madrid,AS Monaco,2,0,2018/19,Home,2018,11,2,0,2,Win
+314,Spain Liga,2018-11-24,Atletico Madrid,Barcelona,1,1,2018/19,Home,2018,11,1,1,0,Draw
+315,Spain Liga,2018-11-10,Atletico Madrid,Athletic Bilbao,3,2,2018/19,Home,2018,11,3,2,1,Win
+316,UEFA Champions League,2018-11-06,Atletico Madrid,Borussia Dortmund,2,0,2018/19,Home,2018,11,2,0,2,Win
+317,Spain Liga,2018-11-03,Leganes,Atletico Madrid,1,1,2018/19,Away,2018,11,1,1,0,Draw
+318,Spain Liga,2018-10-27,Atletico Madrid,Real Sociedad,2,0,2018/19,Home,2018,10,2,0,2,Win
+319,UEFA Champions League,2018-10-24,Borussia Dortmund,Atletico Madrid,4,0,2018/19,Away,2018,10,0,4,-4,Loss
+320,Spain Liga,2018-10-20,Villarreal,Atletico Madrid,1,1,2018/19,Away,2018,10,1,1,0,Draw
+321,Spain Liga,2018-10-07,Atletico Madrid,Real Betis,1,0,2018/19,Home,2018,10,1,0,1,Win
+322,UEFA Champions League,2018-10-03,Atletico Madrid,Club Brugge,3,1,2018/19,Home,2018,10,3,1,2,Win
+323,Spain Liga,2018-09-29,Real Madrid,Atletico Madrid,0,0,2018/19,Away,2018,9,0,0,0,Draw
+324,Spain Liga,2018-09-25,Atletico Madrid,SD Huesca,3,0,2018/19,Home,2018,9,3,0,3,Win
+325,Spain Liga,2018-09-22,Getafe,Atletico Madrid,0,2,2018/19,Away,2018,9,2,0,2,Win
+326,UEFA Champions League,2018-09-18,AS Monaco,Atletico Madrid,1,2,2018/19,Away,2018,9,2,1,1,Win
+327,Spain Liga,2018-09-15,Atletico Madrid,Eibar,1,1,2018/19,Home,2018,9,1,1,0,Draw
+328,Spain Liga,2018-08-25,Atletico Madrid,Rayo Vallecano,1,0,2018/19,Home,2018,8,1,0,1,Win
+329,Spain Liga,2018-08-20,Valencia,Atletico Madrid,1,1,2018/19,Away,2018,8,1,1,0,Draw
+330,Spain Liga,2018-05-20,Atletico Madrid,Eibar,2,2,2017/18,Home,2018,5,2,2,0,Draw
+331,UEFA Europa League,2018-05-16,Marseille,Atletico Madrid,0,3,2017/18,Away,2018,5,3,0,3,Win
+332,Spain Liga,2018-05-12,Getafe,Atletico Madrid,0,1,2017/18,Away,2018,5,1,0,1,Win
+333,Spain Liga,2018-05-06,Atletico Madrid,RCD Espanyol,0,2,2017/18,Home,2018,5,0,2,-2,Loss
+334,UEFA Europa League,2018-05-03,Atletico Madrid,Arsenal,1,0,2017/18,Home,2018,5,1,0,1,Win
+335,Spain Liga,2018-04-29,Deportivo Alaves,Atletico Madrid,0,1,2017/18,Away,2018,4,1,0,1,Win
+336,UEFA Europa League,2018-04-26,Arsenal,Atletico Madrid,1,1,2017/18,Away,2018,4,1,1,0,Draw
+337,Spain Liga,2018-04-22,Atletico Madrid,Real Betis,0,0,2017/18,Home,2018,4,0,0,0,Draw
+338,Spain Liga,2018-04-19,Real Sociedad,Atletico Madrid,3,0,2017/18,Away,2018,4,0,3,-3,Loss
+339,Spain Liga,2018-04-15,Atletico Madrid,Levante,3,0,2017/18,Home,2018,4,3,0,3,Win
+340,UEFA Europa League,2018-04-12,Sporting,Atletico Madrid,1,0,2017/18,Away,2018,4,0,1,-1,Loss
+341,Spain Liga,2018-04-08,Real Madrid,Atletico Madrid,1,1,2017/18,Away,2018,4,1,1,0,Draw
+342,UEFA Europa League,2018-04-05,Atletico Madrid,Sporting,2,0,2017/18,Home,2018,4,2,0,2,Win
+343,Spain Liga,2018-04-01,Atletico Madrid,Deportivo La Coruna,1,0,2017/18,Home,2018,4,1,0,1,Win
+344,Spain Liga,2018-03-18,Villarreal,Atletico Madrid,2,1,2017/18,Away,2018,3,1,2,-1,Loss
+345,UEFA Europa League,2018-03-15,Lokomotiv Moskva,Atletico Madrid,1,5,2017/18,Away,2018,3,5,1,4,Win
+346,Spain Liga,2018-03-11,Atletico Madrid,Celta Vigo,3,0,2017/18,Home,2018,3,3,0,3,Win
+347,UEFA Europa League,2018-03-08,Atletico Madrid,Lokomotiv Moskva,3,0,2017/18,Home,2018,3,3,0,3,Win
+348,Spain Liga,2018-03-04,Barcelona,Atletico Madrid,1,0,2017/18,Away,2018,3,0,1,-1,Loss
+349,Spain Liga,2018-02-28,Atletico Madrid,Leganes,4,0,2017/18,Home,2018,2,4,0,4,Win
+350,Spain Liga,2018-02-25,Sevilla,Atletico Madrid,2,5,2017/18,Away,2018,2,5,2,3,Win
+351,UEFA Europa League,2018-02-22,Atletico Madrid,København,1,0,2017/18,Home,2018,2,1,0,1,Win
+352,Spain Liga,2018-02-18,Atletico Madrid,Athletic Bilbao,2,0,2017/18,Home,2018,2,2,0,2,Win
+353,UEFA Europa League,2018-02-15,København,Atletico Madrid,1,4,2017/18,Away,2018,2,4,1,3,Win
+354,Spain Liga,2018-02-10,Malaga,Atletico Madrid,0,1,2017/18,Away,2018,2,1,0,1,Win
+355,Spain Liga,2018-02-04,Atletico Madrid,Valencia,1,0,2017/18,Home,2018,2,1,0,1,Win
+356,Spain Liga,2018-01-28,Atletico Madrid,Las Palmas,3,0,2017/18,Home,2018,1,3,0,3,Win
+357,Spain Liga,2018-01-20,Atletico Madrid,Girona,1,1,2017/18,Home,2018,1,1,1,0,Draw
+358,Spain Liga,2018-01-13,Eibar,Atletico Madrid,0,1,2017/18,Away,2018,1,1,0,1,Win
+359,Spain Liga,2018-01-06,Atletico Madrid,Getafe,2,0,2017/18,Home,2018,1,2,0,2,Win
+360,Spain Liga,2017-12-22,RCD Espanyol,Atletico Madrid,1,0,2017/18,Away,2017,12,0,1,-1,Loss
+361,Spain Liga,2017-12-16,Atletico Madrid,Deportivo Alaves,1,0,2017/18,Home,2017,12,1,0,1,Win
+362,Spain Liga,2017-12-10,Real Betis,Atletico Madrid,0,1,2017/18,Away,2017,12,1,0,1,Win
+363,UEFA Champions League,2017-12-05,Chelsea FC,Atletico Madrid,1,1,2017/18,Away,2017,12,1,1,0,Draw
+364,Spain Liga,2017-12-02,Atletico Madrid,Real Sociedad,2,1,2017/18,Home,2017,12,2,1,1,Win
+365,Spain Liga,2017-11-25,Levante,Atletico Madrid,0,5,2017/18,Away,2017,11,5,0,5,Win
+366,UEFA Champions League,2017-11-22,Atletico Madrid,AS Roma,2,0,2017/18,Home,2017,11,2,0,2,Win
+367,Spain Liga,2017-11-18,Atletico Madrid,Real Madrid,0,0,2017/18,Home,2017,11,0,0,0,Draw
+368,Spain Liga,2017-11-04,Deportivo La Coruna,Atletico Madrid,0,1,2017/18,Away,2017,11,1,0,1,Win
+369,UEFA Champions League,2017-10-31,Atletico Madrid,Qarabağ,1,1,2017/18,Home,2017,10,1,1,0,Draw
+370,Spain Liga,2017-10-28,Atletico Madrid,Villarreal,1,1,2017/18,Home,2017,10,1,1,0,Draw
+371,Spain Liga,2017-10-22,Celta Vigo,Atletico Madrid,0,1,2017/18,Away,2017,10,1,0,1,Win
+372,UEFA Champions League,2017-10-18,Qarabağ,Atletico Madrid,0,0,2017/18,Away,2017,10,0,0,0,Draw
+373,Spain Liga,2017-10-14,Atletico Madrid,Barcelona,1,1,2017/18,Home,2017,10,1,1,0,Draw
+374,Spain Liga,2017-09-30,Leganes,Atletico Madrid,0,0,2017/18,Away,2017,9,0,0,0,Draw
+375,UEFA Champions League,2017-09-27,Atletico Madrid,Chelsea FC,1,2,2017/18,Home,2017,9,1,2,-1,Loss
+376,Spain Liga,2017-09-23,Atletico Madrid,Sevilla,2,0,2017/18,Home,2017,9,2,0,2,Win
+377,Spain Liga,2017-09-20,Athletic Bilbao,Atletico Madrid,1,2,2017/18,Away,2017,9,2,1,1,Win
+378,Spain Liga,2017-09-16,Atletico Madrid,Malaga,1,0,2017/18,Home,2017,9,1,0,1,Win
+379,UEFA Champions League,2017-09-12,AS Roma,Atletico Madrid,0,0,2017/18,Away,2017,9,0,0,0,Draw
+380,Spain Liga,2017-09-09,Valencia,Atletico Madrid,0,0,2017/18,Away,2017,9,0,0,0,Draw
+381,Spain Liga,2017-08-26,Las Palmas,Atletico Madrid,1,5,2017/18,Away,2017,8,5,1,4,Win
+382,Spain Liga,2017-08-19,Girona,Atletico Madrid,2,2,2017/18,Away,2017,8,2,2,0,Draw
+383,Spain Liga,2017-05-21,Atletico Madrid,Athletic Bilbao,3,1,2016/17,Home,2017,5,3,1,2,Win
+384,Spain Liga,2017-05-14,Real Betis,Atletico Madrid,1,1,2016/17,Away,2017,5,1,1,0,Draw
+385,UEFA Champions League,2017-05-10,Atletico Madrid,Real Madrid,2,1,2016/17,Home,2017,5,2,1,1,Win
+386,Spain Liga,2017-05-06,Atletico Madrid,Eibar,1,0,2016/17,Home,2017,5,1,0,1,Win
+387,UEFA Champions League,2017-05-02,Real Madrid,Atletico Madrid,3,0,2016/17,Away,2017,5,0,3,-3,Loss
+388,Spain Liga,2017-04-29,Las Palmas,Atletico Madrid,0,5,2016/17,Away,2017,4,5,0,5,Win
+389,Spain Liga,2017-04-25,Atletico Madrid,Villarreal,0,1,2016/17,Home,2017,4,0,1,-1,Loss
+390,Spain Liga,2017-04-22,RCD Espanyol,Atletico Madrid,0,1,2016/17,Away,2017,4,1,0,1,Win
+391,UEFA Champions League,2017-04-18,Leicester City,Atletico Madrid,1,1,2016/17,Away,2017,4,1,1,0,Draw
+392,Spain Liga,2017-04-15,Atletico Madrid,Osasuna,3,0,2016/17,Home,2017,4,3,0,3,Win
+393,UEFA Champions League,2017-04-12,Atletico Madrid,Leicester City,1,0,2016/17,Home,2017,4,1,0,1,Win
+394,Spain Liga,2017-04-08,Real Madrid,Atletico Madrid,1,1,2016/17,Away,2017,4,1,1,0,Draw
+395,Spain Liga,2017-04-04,Atletico Madrid,Real Sociedad,1,0,2016/17,Home,2017,4,1,0,1,Win
+396,Spain Liga,2017-04-01,Malaga,Atletico Madrid,0,2,2016/17,Away,2017,4,2,0,2,Win
+397,Spain Liga,2017-03-19,Atletico Madrid,Sevilla,3,1,2016/17,Home,2017,3,3,1,2,Win
+398,UEFA Champions League,2017-03-15,Atletico Madrid,Bayer Leverkusen,0,0,2016/17,Home,2017,3,0,0,0,Draw
+399,Spain Liga,2017-03-11,Granada,Atletico Madrid,0,1,2016/17,Away,2017,3,1,0,1,Win
+400,Spain Liga,2017-03-05,Atletico Madrid,Valencia,3,0,2016/17,Home,2017,3,3,0,3,Win
+401,Spain Liga,2017-03-02,Deportivo La Coruna,Atletico Madrid,1,1,2016/17,Away,2017,3,1,1,0,Draw
+402,Spain Liga,2017-02-26,Atletico Madrid,Barcelona,1,2,2016/17,Home,2017,2,1,2,-1,Loss
+403,UEFA Champions League,2017-02-21,Bayer Leverkusen,Atletico Madrid,2,4,2016/17,Away,2017,2,4,2,2,Win
+404,Spain Liga,2017-02-18,Sporting Gijon,Atletico Madrid,1,4,2016/17,Away,2017,2,4,1,3,Win
+405,Spain Liga,2017-02-12,Atletico Madrid,Celta Vigo,3,2,2016/17,Home,2017,2,3,2,1,Win
+406,Spain Liga,2017-02-04,Atletico Madrid,Leganes,2,0,2016/17,Home,2017,2,2,0,2,Win
+407,Spain Liga,2017-01-28,Deportivo Alaves,Atletico Madrid,0,0,2016/17,Away,2017,1,0,0,0,Draw
+408,Spain Liga,2017-01-22,Athletic Bilbao,Atletico Madrid,2,2,2016/17,Away,2017,1,2,2,0,Draw
+409,Spain Liga,2017-01-14,Atletico Madrid,Real Betis,1,0,2016/17,Home,2017,1,1,0,1,Win
+410,Spain Liga,2017-01-07,Eibar,Atletico Madrid,0,2,2016/17,Away,2017,1,2,0,2,Win
+411,Spain Liga,2016-12-17,Atletico Madrid,Las Palmas,1,0,2016/17,Home,2016,12,1,0,1,Win
+412,Spain Liga,2016-12-12,Villarreal,Atletico Madrid,3,0,2016/17,Away,2016,12,0,3,-3,Loss
+413,UEFA Champions League,2016-12-06,Bayern München,Atletico Madrid,1,0,2016/17,Away,2016,12,0,1,-1,Loss
+414,Spain Liga,2016-12-03,Atletico Madrid,RCD Espanyol,0,0,2016/17,Home,2016,12,0,0,0,Draw
+415,Spain Liga,2016-11-27,Osasuna,Atletico Madrid,0,3,2016/17,Away,2016,11,3,0,3,Win
+416,UEFA Champions League,2016-11-23,Atletico Madrid,PSV Eindhoven,2,0,2016/17,Home,2016,11,2,0,2,Win
+417,Spain Liga,2016-11-19,Atletico Madrid,Real Madrid,0,3,2016/17,Home,2016,11,0,3,-3,Loss
+418,Spain Liga,2016-11-05,Real Sociedad,Atletico Madrid,2,0,2016/17,Away,2016,11,0,2,-2,Loss
+419,UEFA Champions League,2016-11-01,Atletico Madrid,FK Rostov,2,1,2016/17,Home,2016,11,2,1,1,Win
+420,Spain Liga,2016-10-29,Atletico Madrid,Malaga,4,2,2016/17,Home,2016,10,4,2,2,Win
+421,Spain Liga,2016-10-23,Sevilla,Atletico Madrid,1,0,2016/17,Away,2016,10,0,1,-1,Loss
+422,UEFA Champions League,2016-10-19,FK Rostov,Atletico Madrid,0,1,2016/17,Away,2016,10,1,0,1,Win
+423,Spain Liga,2016-10-15,Atletico Madrid,Granada,7,1,2016/17,Home,2016,10,7,1,6,Win
+424,Spain Liga,2016-10-02,Valencia,Atletico Madrid,0,2,2016/17,Away,2016,10,2,0,2,Win
+425,UEFA Champions League,2016-09-28,Atletico Madrid,Bayern München,1,0,2016/17,Home,2016,9,1,0,1,Win
+426,Spain Liga,2016-09-25,Atletico Madrid,Deportivo La Coruna,1,0,2016/17,Home,2016,9,1,0,1,Win
+427,Spain Liga,2016-09-21,Barcelona,Atletico Madrid,1,1,2016/17,Away,2016,9,1,1,0,Draw
+428,Spain Liga,2016-09-17,Atletico Madrid,Sporting Gijon,5,0,2016/17,Home,2016,9,5,0,5,Win
+429,UEFA Champions League,2016-09-13,PSV Eindhoven,Atletico Madrid,0,1,2016/17,Away,2016,9,1,0,1,Win
+430,Spain Liga,2016-09-10,Celta Vigo,Atletico Madrid,0,4,2016/17,Away,2016,9,4,0,4,Win
+431,Spain Liga,2016-08-27,Leganes,Atletico Madrid,0,0,2016/17,Away,2016,8,0,0,0,Draw
+432,UEFA Champions League,2016-05-28,Real Madrid,Atletico Madrid,1,1,2015/16,Away,2016,5,1,1,0,Draw
+433,Spain Liga,2016-05-14,Atletico Madrid,Celta Vigo,2,0,2015/16,Home,2016,5,2,0,2,Win
+434,Spain Liga,2016-05-08,Levante,Atletico Madrid,2,1,2015/16,Away,2016,5,1,2,-1,Loss
+435,UEFA Champions League,2016-05-03,Bayern München,Atletico Madrid,2,1,2015/16,Away,2016,5,1,2,-1,Loss
+436,Spain Liga,2016-04-30,Atletico Madrid,Rayo Vallecano,1,0,2015/16,Home,2016,4,1,0,1,Win
+437,UEFA Champions League,2016-04-27,Atletico Madrid,Bayern München,1,0,2015/16,Home,2016,4,1,0,1,Win
+438,Spain Liga,2016-04-23,Atletico Madrid,Malaga,1,0,2015/16,Home,2016,4,1,0,1,Win
+439,Spain Liga,2016-04-20,Athletic Bilbao,Atletico Madrid,0,1,2015/16,Away,2016,4,1,0,1,Win
+440,Spain Liga,2016-04-17,Atletico Madrid,Granada,3,0,2015/16,Home,2016,4,3,0,3,Win
+441,UEFA Champions League,2016-04-13,Atletico Madrid,Barcelona,2,0,2015/16,Home,2016,4,2,0,2,Win
+442,Spain Liga,2016-04-09,RCD Espanyol,Atletico Madrid,1,3,2015/16,Away,2016,4,3,1,2,Win
+443,UEFA Champions League,2016-04-05,Barcelona,Atletico Madrid,2,1,2015/16,Away,2016,4,1,2,-1,Loss
+444,Spain Liga,2016-04-02,Atletico Madrid,Real Betis,5,1,2015/16,Home,2016,4,5,1,4,Win
+445,Spain Liga,2016-03-19,Sporting Gijon,Atletico Madrid,2,1,2015/16,Away,2016,3,1,2,-1,Loss
+446,UEFA Champions League,2016-03-15,Atletico Madrid,PSV Eindhoven,0,0,2015/16,Home,2016,3,0,0,0,Draw
+447,Spain Liga,2016-03-12,Atletico Madrid,Deportivo La Coruna,3,0,2015/16,Home,2016,3,3,0,3,Win
+448,Spain Liga,2016-03-06,Valencia,Atletico Madrid,1,3,2015/16,Away,2016,3,3,1,2,Win
+449,Spain Liga,2016-03-01,Atletico Madrid,Real Sociedad,3,0,2015/16,Home,2016,3,3,0,3,Win
+450,Spain Liga,2016-02-27,Real Madrid,Atletico Madrid,0,1,2015/16,Away,2016,2,1,0,1,Win
+451,UEFA Champions League,2016-02-24,PSV Eindhoven,Atletico Madrid,0,0,2015/16,Away,2016,2,0,0,0,Draw
+452,Spain Liga,2016-02-21,Atletico Madrid,Villarreal,0,0,2015/16,Home,2016,2,0,0,0,Draw
+453,Spain Liga,2016-02-14,Getafe,Atletico Madrid,0,1,2015/16,Away,2016,2,1,0,1,Win
+454,Spain Liga,2016-02-06,Atletico Madrid,Eibar,3,1,2015/16,Home,2016,2,3,1,2,Win
+455,Spain Liga,2016-01-30,Barcelona,Atletico Madrid,2,1,2015/16,Away,2016,1,1,2,-1,Loss
+456,Spain Liga,2016-01-24,Atletico Madrid,Sevilla,0,0,2015/16,Home,2016,1,0,0,0,Draw
+457,Spain Liga,2016-01-17,Las Palmas,Atletico Madrid,0,3,2015/16,Away,2016,1,3,0,3,Win
+458,Spain Liga,2016-01-10,Celta Vigo,Atletico Madrid,0,2,2015/16,Away,2016,1,2,0,2,Win
+459,Spain Liga,2016-01-02,Atletico Madrid,Levante,1,0,2015/16,Home,2016,1,1,0,1,Win
+460,Spain Liga,2015-12-30,Rayo Vallecano,Atletico Madrid,0,2,2015/16,Away,2015,12,2,0,2,Win
+461,Spain Liga,2015-12-20,Malaga,Atletico Madrid,1,0,2015/16,Away,2015,12,0,1,-1,Loss
+462,Spain Liga,2015-12-13,Atletico Madrid,Athletic Bilbao,2,1,2015/16,Home,2015,12,2,1,1,Win
+463,UEFA Champions League,2015-12-08,Benfica,Atletico Madrid,1,2,2015/16,Away,2015,12,2,1,1,Win
+464,Spain Liga,2015-12-05,Granada,Atletico Madrid,0,2,2015/16,Away,2015,12,2,0,2,Win
+465,Spain Liga,2015-11-28,Atletico Madrid,RCD Espanyol,1,0,2015/16,Home,2015,11,1,0,1,Win
+466,UEFA Champions League,2015-11-25,Atletico Madrid,Galatasaray,2,0,2015/16,Home,2015,11,2,0,2,Win
+467,Spain Liga,2015-11-22,Real Betis,Atletico Madrid,0,1,2015/16,Away,2015,11,1,0,1,Win
+468,Spain Liga,2015-11-08,Atletico Madrid,Sporting Gijon,1,0,2015/16,Home,2015,11,1,0,1,Win
+469,UEFA Champions League,2015-11-03,Lokomotiv Astana,Atletico Madrid,0,0,2015/16,Away,2015,11,0,0,0,Draw
+470,Spain Liga,2015-10-30,Deportivo La Coruna,Atletico Madrid,1,1,2015/16,Away,2015,10,1,1,0,Draw
+471,Spain Liga,2015-10-25,Atletico Madrid,Valencia,2,1,2015/16,Home,2015,10,2,1,1,Win
+472,UEFA Champions League,2015-10-21,Atletico Madrid,Lokomotiv Astana,4,0,2015/16,Home,2015,10,4,0,4,Win
+473,Spain Liga,2015-10-18,Real Sociedad,Atletico Madrid,0,2,2015/16,Away,2015,10,2,0,2,Win
+474,Spain Liga,2015-10-04,Atletico Madrid,Real Madrid,1,1,2015/16,Home,2015,10,1,1,0,Draw
+475,UEFA Champions League,2015-09-30,Atletico Madrid,Benfica,1,2,2015/16,Home,2015,9,1,2,-1,Loss
+476,Spain Liga,2015-09-26,Villarreal,Atletico Madrid,1,0,2015/16,Away,2015,9,0,1,-1,Loss
+477,Spain Liga,2015-09-22,Atletico Madrid,Getafe,2,0,2015/16,Home,2015,9,2,0,2,Win
+478,Spain Liga,2015-09-19,Eibar,Atletico Madrid,0,2,2015/16,Away,2015,9,2,0,2,Win
+479,UEFA Champions League,2015-09-15,Galatasaray,Atletico Madrid,0,2,2015/16,Away,2015,9,2,0,2,Win
+480,Spain Liga,2015-09-12,Atletico Madrid,Barcelona,1,2,2015/16,Home,2015,9,1,2,-1,Loss
+481,Spain Liga,2015-08-30,Sevilla,Atletico Madrid,0,3,2015/16,Away,2015,8,3,0,3,Win
+482,Spain Liga,2015-08-22,Atletico Madrid,Las Palmas,1,0,2015/16,Home,2015,8,1,0,1,Win
+483,Spain Liga,2015-05-23,Granada,Atletico Madrid,0,0,2014/15,Away,2015,5,0,0,0,Draw
+484,Spain Liga,2015-05-17,Atletico Madrid,Barcelona,0,1,2014/15,Home,2015,5,0,1,-1,Loss
+485,Spain Liga,2015-05-10,Levante,Atletico Madrid,2,2,2014/15,Away,2015,5,2,2,0,Draw
+486,Spain Liga,2015-05-02,Atletico Madrid,Athletic Bilbao,0,0,2014/15,Home,2015,5,0,0,0,Draw
+487,Spain Liga,2015-04-29,Villarreal,Atletico Madrid,0,1,2014/15,Away,2015,4,1,0,1,Win
+488,Spain Liga,2015-04-25,Atletico Madrid,Elche,3,0,2014/15,Home,2015,4,3,0,3,Win
+489,UEFA Champions League,2015-04-22,Real Madrid,Atletico Madrid,1,0,2014/15,Away,2015,4,0,1,-1,Loss
+490,Spain Liga,2015-04-18,Deportivo La Coruna,Atletico Madrid,1,2,2014/15,Away,2015,4,2,1,1,Win
+491,UEFA Champions League,2015-04-14,Atletico Madrid,Real Madrid,0,0,2014/15,Home,2015,4,0,0,0,Draw
+492,Spain Liga,2015-04-11,Malaga,Atletico Madrid,2,2,2014/15,Away,2015,4,2,2,0,Draw
+493,Spain Liga,2015-04-07,Atletico Madrid,Real Sociedad,2,0,2014/15,Home,2015,4,2,0,2,Win
+494,Spain Liga,2015-04-04,Cordoba CF,Atletico Madrid,0,2,2014/15,Away,2015,4,2,0,2,Win
+495,Spain Liga,2015-03-21,Atletico Madrid,Getafe,2,0,2014/15,Home,2015,3,2,0,2,Win
+496,UEFA Champions League,2015-03-17,Atletico Madrid,Bayer Leverkusen,1,0,2014/15,Home,2015,3,1,0,1,Win
+497,Spain Liga,2015-03-14,RCD Espanyol,Atletico Madrid,0,0,2014/15,Away,2015,3,0,0,0,Draw
+498,Spain Liga,2015-03-08,Atletico Madrid,Valencia,1,1,2014/15,Home,2015,3,1,1,0,Draw
+499,Spain Liga,2015-03-01,Sevilla,Atletico Madrid,0,0,2014/15,Away,2015,3,0,0,0,Draw
+500,UEFA Champions League,2015-02-25,Bayer Leverkusen,Atletico Madrid,1,0,2014/15,Away,2015,2,0,1,-1,Loss
+501,Spain Liga,2015-02-21,Atletico Madrid,Almeria,3,0,2014/15,Home,2015,2,3,0,3,Win
+502,Spain Liga,2015-02-15,Celta Vigo,Atletico Madrid,2,0,2014/15,Away,2015,2,0,2,-2,Loss
+503,Spain Liga,2015-02-07,Atletico Madrid,Real Madrid,4,0,2014/15,Home,2015,2,4,0,4,Win
+504,Spain Liga,2015-01-31,Eibar,Atletico Madrid,1,3,2014/15,Away,2015,1,3,1,2,Win
+505,Spain Liga,2015-01-24,Atletico Madrid,Rayo Vallecano,3,1,2014/15,Home,2015,1,3,1,2,Win
+506,Spain Liga,2015-01-18,Atletico Madrid,Granada,2,0,2014/15,Home,2015,1,2,0,2,Win
+507,Spain Liga,2015-01-11,Barcelona,Atletico Madrid,3,1,2014/15,Away,2015,1,1,3,-2,Loss
+508,Spain Liga,2015-01-03,Atletico Madrid,Levante,3,1,2014/15,Home,2015,1,3,1,2,Win
+509,Spain Liga,2014-12-21,Athletic Bilbao,Atletico Madrid,1,4,2014/15,Away,2014,12,4,1,3,Win
+510,Spain Liga,2014-12-14,Atletico Madrid,Villarreal,0,1,2014/15,Home,2014,12,0,1,-1,Loss
+511,UEFA Champions League,2014-12-09,Juventus,Atletico Madrid,0,0,2014/15,Away,2014,12,0,0,0,Draw
+512,Spain Liga,2014-12-06,Elche,Atletico Madrid,0,2,2014/15,Away,2014,12,2,0,2,Win
+513,Spain Liga,2014-11-30,Atletico Madrid,Deportivo La Coruna,2,0,2014/15,Home,2014,11,2,0,2,Win
+514,UEFA Champions League,2014-11-26,Atletico Madrid,Olympiakos,4,0,2014/15,Home,2014,11,4,0,4,Win
+515,Spain Liga,2014-11-22,Atletico Madrid,Malaga,3,1,2014/15,Home,2014,11,3,1,2,Win
+516,Spain Liga,2014-11-09,Real Sociedad,Atletico Madrid,2,1,2014/15,Away,2014,11,1,2,-1,Loss
+517,UEFA Champions League,2014-11-04,Malmö FF,Atletico Madrid,0,2,2014/15,Away,2014,11,2,0,2,Win
+518,Spain Liga,2014-11-01,Atletico Madrid,Cordoba CF,4,2,2014/15,Home,2014,11,4,2,2,Win
+519,Spain Liga,2014-10-26,Getafe,Atletico Madrid,0,1,2014/15,Away,2014,10,1,0,1,Win
+520,UEFA Champions League,2014-10-22,Atletico Madrid,Malmö FF,5,0,2014/15,Home,2014,10,5,0,5,Win
+521,Spain Liga,2014-10-19,Atletico Madrid,RCD Espanyol,2,0,2014/15,Home,2014,10,2,0,2,Win
+522,Spain Liga,2014-10-04,Valencia,Atletico Madrid,3,1,2014/15,Away,2014,10,1,3,-2,Loss
+523,UEFA Champions League,2014-10-01,Atletico Madrid,Juventus,1,0,2014/15,Home,2014,10,1,0,1,Win
+524,Spain Liga,2014-09-27,Atletico Madrid,Sevilla,4,0,2014/15,Home,2014,9,4,0,4,Win
+525,Spain Liga,2014-09-24,Almeria,Atletico Madrid,0,1,2014/15,Away,2014,9,1,0,1,Win
+526,Spain Liga,2014-09-20,Atletico Madrid,Celta Vigo,2,2,2014/15,Home,2014,9,2,2,0,Draw
+527,UEFA Champions League,2014-09-16,Olympiakos,Atletico Madrid,3,2,2014/15,Away,2014,9,2,3,-1,Loss
+528,Spain Liga,2014-09-13,Real Madrid,Atletico Madrid,1,2,2014/15,Away,2014,9,2,1,1,Win
+529,Spain Liga,2014-08-30,Atletico Madrid,Eibar,2,1,2014/15,Home,2014,8,2,1,1,Win
+530,Spain Liga,2014-08-25,Rayo Vallecano,Atletico Madrid,0,0,2014/15,Away,2014,8,0,0,0,Draw
+531,UEFA Champions League,2014-05-24,Real Madrid,Atletico Madrid,4,1,2013/14,Away,2014,5,1,4,-3,Loss
+532,Spain Liga,2014-05-17,Barcelona,Atletico Madrid,1,1,2013/14,Away,2014,5,1,1,0,Draw
+533,Spain Liga,2014-05-11,Atletico Madrid,Malaga,1,1,2013/14,Home,2014,5,1,1,0,Draw
+534,Spain Liga,2014-05-04,Levante,Atletico Madrid,2,0,2013/14,Away,2014,5,0,2,-2,Loss
+535,UEFA Champions League,2014-04-30,Chelsea FC,Atletico Madrid,1,3,2013/14,Away,2014,4,3,1,2,Win
+536,Spain Liga,2014-04-27,Valencia,Atletico Madrid,0,1,2013/14,Away,2014,4,1,0,1,Win
+537,UEFA Champions League,2014-04-22,Atletico Madrid,Chelsea FC,0,0,2013/14,Home,2014,4,0,0,0,Draw
+538,Spain Liga,2014-04-18,Atletico Madrid,Elche,2,0,2013/14,Home,2014,4,2,0,2,Win
+539,Spain Liga,2014-04-13,Getafe,Atletico Madrid,0,2,2013/14,Away,2014,4,2,0,2,Win
+540,UEFA Champions League,2014-04-09,Atletico Madrid,Barcelona,1,0,2013/14,Home,2014,4,1,0,1,Win
+541,Spain Liga,2014-04-05,Atletico Madrid,Villarreal,1,0,2013/14,Home,2014,4,1,0,1,Win
+542,UEFA Champions League,2014-04-01,Barcelona,Atletico Madrid,1,1,2013/14,Away,2014,4,1,1,0,Draw
+543,Spain Liga,2014-03-29,Athletic Bilbao,Atletico Madrid,1,2,2013/14,Away,2014,3,2,1,1,Win
+544,Spain Liga,2014-03-26,Atletico Madrid,Granada,1,0,2013/14,Home,2014,3,1,0,1,Win
+545,Spain Liga,2014-03-23,Real Betis,Atletico Madrid,0,2,2013/14,Away,2014,3,2,0,2,Win
+546,Spain Liga,2014-03-15,Atletico Madrid,RCD Espanyol,1,0,2013/14,Home,2014,3,1,0,1,Win
+547,UEFA Champions League,2014-03-11,Atletico Madrid,AC Milan,4,1,2013/14,Home,2014,3,4,1,3,Win
+548,Spain Liga,2014-03-08,Celta Vigo,Atletico Madrid,0,2,2013/14,Away,2014,3,2,0,2,Win
+549,Spain Liga,2014-03-02,Atletico Madrid,Real Madrid,2,2,2013/14,Home,2014,3,2,2,0,Draw
+550,Spain Liga,2014-02-23,Osasuna,Atletico Madrid,3,0,2013/14,Away,2014,2,0,3,-3,Loss
+551,UEFA Champions League,2014-02-19,AC Milan,Atletico Madrid,0,1,2013/14,Away,2014,2,1,0,1,Win
+552,Spain Liga,2014-02-15,Atletico Madrid,Real Valladolid,3,0,2013/14,Home,2014,2,3,0,3,Win
+553,Spain Liga,2014-02-08,Almeria,Atletico Madrid,2,0,2013/14,Away,2014,2,0,2,-2,Loss
+554,Spain Liga,2014-02-02,Atletico Madrid,Real Sociedad,4,0,2013/14,Home,2014,2,4,0,4,Win
+555,Spain Liga,2014-01-26,Rayo Vallecano,Atletico Madrid,2,4,2013/14,Away,2014,1,4,2,2,Win
+556,Spain Liga,2014-01-19,Atletico Madrid,Sevilla,1,1,2013/14,Home,2014,1,1,1,0,Draw
+557,Spain Liga,2014-01-11,Atletico Madrid,Barcelona,0,0,2013/14,Home,2014,1,0,0,0,Draw
+558,Spain Liga,2014-01-04,Malaga,Atletico Madrid,0,1,2013/14,Away,2014,1,1,0,1,Win
+559,Spain Liga,2013-12-21,Atletico Madrid,Levante,3,2,2013/14,Home,2013,12,3,2,1,Win
+560,Spain Liga,2013-12-15,Atletico Madrid,Valencia,3,0,2013/14,Home,2013,12,3,0,3,Win
+561,UEFA Champions League,2013-12-11,Atletico Madrid,FC Porto,2,0,2013/14,Home,2013,12,2,0,2,Win
+562,Spain Liga,2013-11-30,Elche,Atletico Madrid,0,2,2013/14,Away,2013,11,2,0,2,Win
+563,UEFA Champions League,2013-11-26,Zenit St. Petersburg,Atletico Madrid,1,1,2013/14,Away,2013,11,1,1,0,Draw
+564,Spain Liga,2013-11-23,Atletico Madrid,Getafe,7,0,2013/14,Home,2013,11,7,0,7,Win
+565,Spain Liga,2013-11-10,Villarreal,Atletico Madrid,1,1,2013/14,Away,2013,11,1,1,0,Draw
+566,UEFA Champions League,2013-11-06,Atletico Madrid,Austria Wien,4,0,2013/14,Home,2013,11,4,0,4,Win
+567,Spain Liga,2013-11-03,Atletico Madrid,Athletic Bilbao,2,0,2013/14,Home,2013,11,2,0,2,Win
+568,Spain Liga,2013-10-31,Granada,Atletico Madrid,1,2,2013/14,Away,2013,10,2,1,1,Win
+569,Spain Liga,2013-10-27,Atletico Madrid,Real Betis,5,0,2013/14,Home,2013,10,5,0,5,Win
+570,UEFA Champions League,2013-10-22,Austria Wien,Atletico Madrid,0,3,2013/14,Away,2013,10,3,0,3,Win
+571,Spain Liga,2013-10-19,RCD Espanyol,Atletico Madrid,1,0,2013/14,Away,2013,10,0,1,-1,Loss
+572,Spain Liga,2013-10-06,Atletico Madrid,Celta Vigo,2,1,2013/14,Home,2013,10,2,1,1,Win
+573,UEFA Champions League,2013-10-01,FC Porto,Atletico Madrid,1,2,2013/14,Away,2013,10,2,1,1,Win
+574,Spain Liga,2013-09-28,Real Madrid,Atletico Madrid,0,1,2013/14,Away,2013,9,1,0,1,Win
+575,Spain Liga,2013-09-24,Atletico Madrid,Osasuna,2,1,2013/14,Home,2013,9,2,1,1,Win
+576,Spain Liga,2013-09-21,Real Valladolid,Atletico Madrid,0,2,2013/14,Away,2013,9,2,0,2,Win
+577,UEFA Champions League,2013-09-18,Atletico Madrid,Zenit St. Petersburg,3,1,2013/14,Home,2013,9,3,1,2,Win
+578,Spain Liga,2013-09-14,Atletico Madrid,Almeria,4,2,2013/14,Home,2013,9,4,2,2,Win
+579,Spain Liga,2013-09-01,Real Sociedad,Atletico Madrid,1,2,2013/14,Away,2013,9,2,1,1,Win
+580,Spain Liga,2013-08-25,Atletico Madrid,Rayo Vallecano,5,0,2013/14,Home,2013,8,5,0,5,Win
+581,Spain Liga,2013-08-18,Sevilla,Atletico Madrid,1,3,2013/14,Away,2013,8,3,1,2,Win
+582,Spain Liga,2013-06-01,Real Zaragoza,Atletico Madrid,1,3,2012/13,Away,2013,6,3,1,2,Win
+583,Spain Liga,2013-05-26,Atletico Madrid,Mallorca,0,0,2012/13,Home,2013,5,0,0,0,Draw
+584,Spain Liga,2013-05-12,Atletico Madrid,Barcelona,1,2,2012/13,Home,2013,5,1,2,-1,Loss
+585,Spain Liga,2013-05-08,Celta Vigo,Atletico Madrid,1,3,2012/13,Away,2013,5,3,1,2,Win
+586,Spain Liga,2013-05-04,Deportivo La Coruna,Atletico Madrid,0,0,2012/13,Away,2013,5,0,0,0,Draw
+587,Spain Liga,2013-04-27,Atletico Madrid,Real Madrid,1,2,2012/13,Home,2013,4,1,2,-1,Loss
+588,Spain Liga,2013-04-21,Sevilla,Atletico Madrid,0,1,2012/13,Away,2013,4,1,0,1,Win
+589,Spain Liga,2013-04-14,Atletico Madrid,Granada,5,0,2012/13,Home,2013,4,5,0,5,Win
+590,Spain Liga,2013-04-07,Getafe,Atletico Madrid,0,0,2012/13,Away,2013,4,0,0,0,Draw
+591,Spain Liga,2013-03-31,Atletico Madrid,Valencia,1,1,2012/13,Home,2013,3,1,1,0,Draw
+592,Spain Liga,2013-03-17,Osasuna,Atletico Madrid,0,2,2012/13,Away,2013,3,2,0,2,Win
+593,Spain Liga,2013-03-10,Atletico Madrid,Real Sociedad,0,1,2012/13,Home,2013,3,0,1,-1,Loss
+594,Spain Liga,2013-03-03,Malaga,Atletico Madrid,0,0,2012/13,Away,2013,3,0,0,0,Draw
+595,Spain Liga,2013-02-24,Atletico Madrid,RCD Espanyol,1,0,2012/13,Home,2013,2,1,0,1,Win
+596,UEFA Europa League,2013-02-21,Rubin Kazan,Atletico Madrid,0,1,2012/13,Away,2013,2,1,0,1,Win
+597,Spain Liga,2013-02-17,Real Valladolid,Atletico Madrid,0,3,2012/13,Away,2013,2,3,0,3,Win
+598,UEFA Europa League,2013-02-14,Atletico Madrid,Rubin Kazan,0,2,2012/13,Home,2013,2,0,2,-2,Loss
+599,Spain Liga,2013-02-10,Rayo Vallecano,Atletico Madrid,2,1,2012/13,Away,2013,2,1,2,-1,Loss
+600,Spain Liga,2013-02-03,Atletico Madrid,Real Betis,1,0,2012/13,Home,2013,2,1,0,1,Win
+601,Spain Liga,2013-01-27,Athletic Bilbao,Atletico Madrid,3,0,2012/13,Away,2013,1,0,3,-3,Loss
+602,Spain Liga,2013-01-20,Atletico Madrid,Levante,2,0,2012/13,Home,2013,1,2,0,2,Win
+603,Spain Liga,2013-01-13,Atletico Madrid,Real Zaragoza,2,0,2012/13,Home,2013,1,2,0,2,Win
+604,Spain Liga,2013-01-06,Mallorca,Atletico Madrid,1,1,2012/13,Away,2013,1,1,1,0,Draw
+605,Spain Liga,2012-12-21,Atletico Madrid,Celta Vigo,1,0,2012/13,Home,2012,12,1,0,1,Win
+606,Spain Liga,2012-12-16,Barcelona,Atletico Madrid,4,1,2012/13,Away,2012,12,1,4,-3,Loss
+607,Spain Liga,2012-12-09,Atletico Madrid,Deportivo La Coruna,6,0,2012/13,Home,2012,12,6,0,6,Win
+608,UEFA Europa League,2012-12-06,Viktoria Plzeň,Atletico Madrid,1,0,2012/13,Away,2012,12,0,1,-1,Loss
+609,Spain Liga,2012-12-01,Real Madrid,Atletico Madrid,2,0,2012/13,Away,2012,12,0,2,-2,Loss
+610,Spain Liga,2012-11-25,Atletico Madrid,Sevilla,4,0,2012/13,Home,2012,11,4,0,4,Win
+611,UEFA Europa League,2012-11-22,Atletico Madrid,Hapoel Tel Aviv,1,0,2012/13,Home,2012,11,1,0,1,Win
+612,Spain Liga,2012-11-18,Granada,Atletico Madrid,0,1,2012/13,Away,2012,11,1,0,1,Win
+613,Spain Liga,2012-11-11,Atletico Madrid,Getafe,2,0,2012/13,Home,2012,11,2,0,2,Win
+614,UEFA Europa League,2012-11-08,Academica,Atletico Madrid,2,0,2012/13,Away,2012,11,0,2,-2,Loss
+615,Spain Liga,2012-11-03,Valencia,Atletico Madrid,2,0,2012/13,Away,2012,11,0,2,-2,Loss
+616,Spain Liga,2012-10-28,Atletico Madrid,Osasuna,3,1,2012/13,Home,2012,10,3,1,2,Win
+617,UEFA Europa League,2012-10-25,Atletico Madrid,Academica,2,1,2012/13,Home,2012,10,2,1,1,Win
+618,Spain Liga,2012-10-21,Real Sociedad,Atletico Madrid,0,1,2012/13,Away,2012,10,1,0,1,Win
+619,Spain Liga,2012-10-07,Atletico Madrid,Malaga,2,1,2012/13,Home,2012,10,2,1,1,Win
+620,UEFA Europa League,2012-10-04,Atletico Madrid,Viktoria Plzeň,1,0,2012/13,Home,2012,10,1,0,1,Win
+621,Spain Liga,2012-09-30,RCD Espanyol,Atletico Madrid,0,1,2012/13,Away,2012,9,1,0,1,Win
+622,Spain Liga,2012-09-26,Real Betis,Atletico Madrid,2,4,2012/13,Away,2012,9,4,2,2,Win
+623,Spain Liga,2012-09-23,Atletico Madrid,Real Valladolid,2,1,2012/13,Home,2012,9,2,1,1,Win
+624,UEFA Europa League,2012-09-20,Hapoel Tel Aviv,Atletico Madrid,0,3,2012/13,Away,2012,9,3,0,3,Win
+625,Spain Liga,2012-09-16,Atletico Madrid,Rayo Vallecano,4,3,2012/13,Home,2012,9,4,3,1,Win
+626,Spain Liga,2012-08-27,Atletico Madrid,Athletic Bilbao,4,0,2012/13,Home,2012,8,4,0,4,Win
+627,Spain Liga,2012-08-19,Levante,Atletico Madrid,1,1,2012/13,Away,2012,8,1,1,0,Draw
+628,Spain Liga,2012-05-13,Villarreal,Atletico Madrid,0,1,2011/12,Away,2012,5,1,0,1,Win
+629,UEFA Europa League,2012-05-09,Atletico Madrid,Athletic Bilbao,3,0,2011/12,Home,2012,5,3,0,3,Win
+630,Spain Liga,2012-05-05,Atletico Madrid,Malaga,2,1,2011/12,Home,2012,5,2,1,1,Win
+631,Spain Liga,2012-05-02,Atletico Madrid,Real Sociedad,1,1,2011/12,Home,2012,5,1,1,0,Draw
+632,Spain Liga,2012-04-29,Real Betis,Atletico Madrid,2,2,2011/12,Away,2012,4,2,2,0,Draw
+633,UEFA Europa League,2012-04-26,Valencia,Atletico Madrid,0,1,2011/12,Away,2012,4,1,0,1,Win
+634,Spain Liga,2012-04-22,Atletico Madrid,RCD Espanyol,3,1,2011/12,Home,2012,4,3,1,2,Win
+635,UEFA Europa League,2012-04-19,Atletico Madrid,Valencia,4,2,2011/12,Home,2012,4,4,2,2,Win
+636,Spain Liga,2012-04-15,Rayo Vallecano,Atletico Madrid,0,1,2011/12,Away,2012,4,1,0,1,Win
+637,Spain Liga,2012-04-11,Atletico Madrid,Real Madrid,1,4,2011/12,Home,2012,4,1,4,-3,Loss
+638,Spain Liga,2012-04-08,Levante,Atletico Madrid,2,0,2011/12,Away,2012,4,0,2,-2,Loss
+639,UEFA Europa League,2012-04-05,Hannover 96,Atletico Madrid,1,2,2011/12,Away,2012,4,2,1,1,Win
+640,Spain Liga,2012-04-01,Atletico Madrid,Getafe,3,0,2011/12,Home,2012,4,3,0,3,Win
+641,UEFA Europa League,2012-03-29,Atletico Madrid,Hannover 96,2,1,2011/12,Home,2012,3,2,1,1,Win
+642,Spain Liga,2012-03-25,Real Zaragoza,Atletico Madrid,1,0,2011/12,Away,2012,3,0,1,-1,Loss
+643,Spain Liga,2012-03-21,Atletico Madrid,Athletic Bilbao,2,1,2011/12,Home,2012,3,2,1,1,Win
+644,Spain Liga,2012-03-18,Mallorca,Atletico Madrid,2,1,2011/12,Away,2012,3,1,2,-1,Loss
+645,UEFA Europa League,2012-03-15,Beşiktaş,Atletico Madrid,0,3,2011/12,Away,2012,3,3,0,3,Win
+646,Spain Liga,2012-03-11,Atletico Madrid,Granada,2,0,2011/12,Home,2012,3,2,0,2,Win
+647,UEFA Europa League,2012-03-08,Atletico Madrid,Beşiktaş,3,1,2011/12,Home,2012,3,3,1,2,Win
+648,Spain Liga,2012-03-03,Sevilla,Atletico Madrid,1,1,2011/12,Away,2012,3,1,1,0,Draw
+649,Spain Liga,2012-02-26,Atletico Madrid,Barcelona,1,2,2011/12,Home,2012,2,1,2,-1,Loss
+650,UEFA Europa League,2012-02-23,Atletico Madrid,Lazio,1,0,2011/12,Home,2012,2,1,0,1,Win
+651,Spain Liga,2012-02-19,Sporting Gijon,Atletico Madrid,1,1,2011/12,Away,2012,2,1,1,0,Draw
+652,UEFA Europa League,2012-02-16,Lazio,Atletico Madrid,1,3,2011/12,Away,2012,2,3,1,2,Win
+653,Spain Liga,2012-02-11,Racing Santander,Atletico Madrid,0,0,2011/12,Away,2012,2,0,0,0,Draw
+654,Spain Liga,2012-02-05,Atletico Madrid,Valencia,0,0,2011/12,Home,2012,2,0,0,0,Draw
+655,Spain Liga,2012-01-30,Osasuna,Atletico Madrid,0,1,2011/12,Away,2012,1,1,0,1,Win
+656,Spain Liga,2012-01-21,Real Sociedad,Atletico Madrid,0,4,2011/12,Away,2012,1,4,0,4,Win
+657,Spain Liga,2012-01-15,Atletico Madrid,Villarreal,3,0,2011/12,Home,2012,1,3,0,3,Win
+658,Spain Liga,2012-01-07,Malaga,Atletico Madrid,0,0,2011/12,Away,2012,1,0,0,0,Draw
+659,Spain Liga,2011-12-18,Atletico Madrid,Real Betis,0,2,2011/12,Home,2011,12,0,2,-2,Loss
+660,UEFA Europa League,2011-12-15,Atletico Madrid,Rennes,3,1,2011/12,Home,2011,12,3,1,2,Win
+661,Spain Liga,2011-12-11,RCD Espanyol,Atletico Madrid,4,2,2011/12,Away,2011,12,2,4,-2,Loss
+662,Spain Liga,2011-12-04,Atletico Madrid,Rayo Vallecano,3,1,2011/12,Home,2011,12,3,1,2,Win
+663,UEFA Europa League,2011-11-30,Celtic,Atletico Madrid,0,1,2011/12,Away,2011,11,1,0,1,Win
+664,Spain Liga,2011-11-26,Real Madrid,Atletico Madrid,4,1,2011/12,Away,2011,11,1,4,-3,Loss
+665,Spain Liga,2011-11-20,Atletico Madrid,Levante,3,2,2011/12,Home,2011,11,3,2,1,Win
+666,Spain Liga,2011-11-06,Getafe,Atletico Madrid,3,2,2011/12,Away,2011,11,2,3,-1,Loss
+667,UEFA Europa League,2011-11-03,Atletico Madrid,Udinese,4,0,2011/12,Home,2011,11,4,0,4,Win
+668,Spain Liga,2011-10-30,Atletico Madrid,Real Zaragoza,3,1,2011/12,Home,2011,10,3,1,2,Win
+669,Spain Liga,2011-10-27,Athletic Bilbao,Atletico Madrid,3,0,2011/12,Away,2011,10,0,3,-3,Loss
+670,Spain Liga,2011-10-23,Atletico Madrid,Mallorca,1,1,2011/12,Home,2011,10,1,1,0,Draw
+671,UEFA Europa League,2011-10-20,Udinese,Atletico Madrid,2,0,2011/12,Away,2011,10,0,2,-2,Loss
+672,Spain Liga,2011-10-15,Granada,Atletico Madrid,0,0,2011/12,Away,2011,10,0,0,0,Draw
+673,Spain Liga,2011-10-02,Atletico Madrid,Sevilla,0,0,2011/12,Home,2011,10,0,0,0,Draw
+674,UEFA Europa League,2011-09-29,Rennes,Atletico Madrid,1,1,2011/12,Away,2011,9,1,1,0,Draw
+675,Spain Liga,2011-09-24,Barcelona,Atletico Madrid,5,0,2011/12,Away,2011,9,0,5,-5,Loss
+676,Spain Liga,2011-09-21,Atletico Madrid,Sporting Gijon,4,0,2011/12,Home,2011,9,4,0,4,Win
+677,Spain Liga,2011-09-18,Atletico Madrid,Racing Santander,4,0,2011/12,Home,2011,9,4,0,4,Win
+678,UEFA Europa League,2011-09-15,Atletico Madrid,Celtic,2,0,2011/12,Home,2011,9,2,0,2,Win
+679,Spain Liga,2011-09-10,Valencia,Atletico Madrid,1,0,2011/12,Away,2011,9,0,1,-1,Loss
+680,Spain Liga,2011-08-28,Atletico Madrid,Osasuna,0,0,2011/12,Home,2011,8,0,0,0,Draw
+681,UEFA Europa League,2011-08-25,Vitoria Guimarães,Atletico Madrid,0,4,2011/12,Away,2011,8,4,0,4,Win
+682,UEFA Europa League,2011-08-18,Atletico Madrid,Vitoria Guimarães,2,0,2011/12,Home,2011,8,2,0,2,Win
+683,Spain Liga,2011-05-21,Mallorca,Atletico Madrid,3,4,2010/11,Away,2011,5,4,3,1,Win
+684,Spain Liga,2011-05-15,Atletico Madrid,Hercules,2,1,2010/11,Home,2011,5,2,1,1,Win
+685,Spain Liga,2011-05-10,Racing Santander,Atletico Madrid,2,1,2010/11,Away,2011,5,1,2,-1,Loss
+686,Spain Liga,2011-05-07,Atletico Madrid,Malaga,0,3,2010/11,Home,2011,5,0,3,-3,Loss
+687,Spain Liga,2011-04-30,Deportivo La Coruna,Atletico Madrid,0,1,2010/11,Away,2011,4,1,0,1,Win
+688,Spain Liga,2011-04-24,Atletico Madrid,Levante,4,1,2010/11,Home,2011,4,4,1,3,Win
+689,Spain Liga,2011-04-17,RCD Espanyol,Atletico Madrid,2,2,2010/11,Away,2011,4,2,2,0,Draw
+690,Spain Liga,2011-04-10,Atletico Madrid,Real Sociedad,3,0,2010/11,Home,2011,4,3,0,3,Win
+691,Spain Liga,2011-04-03,Osasuna,Atletico Madrid,2,3,2010/11,Away,2011,4,3,2,1,Win
+692,Spain Liga,2011-03-19,Atletico Madrid,Real Madrid,1,2,2010/11,Home,2011,3,1,2,-1,Loss
+693,Spain Liga,2011-03-12,Almeria,Atletico Madrid,2,2,2010/11,Away,2011,3,2,2,0,Draw
+694,Spain Liga,2011-03-05,Atletico Madrid,Villarreal,3,1,2010/11,Home,2011,3,3,1,2,Win
+695,Spain Liga,2011-03-02,Getafe,Atletico Madrid,1,1,2010/11,Away,2011,3,1,1,0,Draw
+696,Spain Liga,2011-02-26,Atletico Madrid,Sevilla,2,2,2010/11,Home,2011,2,2,2,0,Draw
+697,Spain Liga,2011-02-19,Real Zaragoza,Atletico Madrid,0,1,2010/11,Away,2011,2,1,0,1,Win
+698,Spain Liga,2011-02-12,Atletico Madrid,Valencia,1,2,2010/11,Home,2011,2,1,2,-1,Loss
+699,Spain Liga,2011-02-05,Barcelona,Atletico Madrid,3,0,2010/11,Away,2011,2,0,3,-3,Loss
+700,Spain Liga,2011-01-30,Atletico Madrid,Athletic Bilbao,0,2,2010/11,Home,2011,1,0,2,-2,Loss
+701,Spain Liga,2011-01-23,Sporting Gijon,Atletico Madrid,1,0,2010/11,Away,2011,1,0,1,-1,Loss
+702,Spain Liga,2011-01-17,Atletico Madrid,Mallorca,3,0,2010/11,Home,2011,1,3,0,3,Win
+703,Spain Liga,2011-01-10,Hercules,Atletico Madrid,4,1,2010/11,Away,2011,1,1,4,-3,Loss
+704,Spain Liga,2011-01-03,Atletico Madrid,Racing Santander,0,0,2010/11,Home,2011,1,0,0,0,Draw
+705,Spain Liga,2010-12-19,Malaga,Atletico Madrid,0,3,2010/11,Away,2010,12,3,0,3,Win
+706,UEFA Europa League,2010-12-16,Bayer Leverkusen,Atletico Madrid,1,1,2010/11,Away,2010,12,1,1,0,Draw
+707,Spain Liga,2010-12-11,Atletico Madrid,Deportivo La Coruna,2,0,2010/11,Home,2010,12,2,0,2,Win
+708,Spain Liga,2010-12-04,Levante,Atletico Madrid,2,0,2010/11,Away,2010,12,0,2,-2,Loss
+709,UEFA Europa League,2010-12-01,Atletico Madrid,Aris Thessaloniki FC,2,3,2010/11,Home,2010,12,2,3,-1,Loss
+710,Spain Liga,2010-11-27,Atletico Madrid,RCD Espanyol,2,3,2010/11,Home,2010,11,2,3,-1,Loss
+711,Spain Liga,2010-11-21,Real Sociedad,Atletico Madrid,2,4,2010/11,Away,2010,11,4,2,2,Win
+712,Spain Liga,2010-11-13,Atletico Madrid,Osasuna,3,0,2010/11,Home,2010,11,3,0,3,Win
+713,Spain Liga,2010-11-07,Real Madrid,Atletico Madrid,2,0,2010/11,Away,2010,11,0,2,-2,Loss
+714,UEFA Europa League,2010-11-04,Rosenborg BK,Atletico Madrid,1,2,2010/11,Away,2010,11,2,1,1,Win
+715,Spain Liga,2010-10-31,Atletico Madrid,Almeria,1,1,2010/11,Home,2010,10,1,1,0,Draw
+716,Spain Liga,2010-10-24,Villarreal,Atletico Madrid,2,0,2010/11,Away,2010,10,0,2,-2,Loss
+717,UEFA Europa League,2010-10-21,Atletico Madrid,Rosenborg BK,3,0,2010/11,Home,2010,10,3,0,3,Win
+718,Spain Liga,2010-10-16,Atletico Madrid,Getafe,2,0,2010/11,Home,2010,10,2,0,2,Win
+719,Spain Liga,2010-10-03,Sevilla,Atletico Madrid,3,1,2010/11,Away,2010,10,1,3,-2,Loss
+720,UEFA Europa League,2010-09-30,Atletico Madrid,Bayer Leverkusen,1,1,2010/11,Home,2010,9,1,1,0,Draw
+721,Spain Liga,2010-09-26,Atletico Madrid,Real Zaragoza,1,0,2010/11,Home,2010,9,1,0,1,Win
+722,Spain Liga,2010-09-22,Valencia,Atletico Madrid,1,1,2010/11,Away,2010,9,1,1,0,Draw
+723,Spain Liga,2010-09-19,Atletico Madrid,Barcelona,1,2,2010/11,Home,2010,9,1,2,-1,Loss
+724,UEFA Europa League,2010-09-16,Aris Thessaloniki FC,Atletico Madrid,1,0,2010/11,Away,2010,9,0,1,-1,Loss
+725,Spain Liga,2010-09-11,Athletic Bilbao,Atletico Madrid,1,2,2010/11,Away,2010,9,2,1,1,Win
+726,Spain Liga,2010-08-30,Atletico Madrid,Sporting Gijon,4,0,2010/11,Home,2010,8,4,0,4,Win
+727,Spain Liga,2010-05-15,Atletico Madrid,Getafe,0,3,2009/10,Home,2010,5,0,3,-3,Loss
+728,UEFA Europa League,2010-05-12,Atletico Madrid,Fulham,2,1,2009/10,Home,2010,5,2,1,1,Win
+729,Spain Liga,2010-05-08,Sporting Gijon,Atletico Madrid,1,1,2009/10,Away,2010,5,1,1,0,Draw
+730,Spain Liga,2010-05-05,Atletico Madrid,Real Valladolid,3,1,2009/10,Home,2010,5,3,1,2,Win
+731,Spain Liga,2010-05-02,Sevilla,Atletico Madrid,3,1,2009/10,Away,2010,5,1,3,-2,Loss
+732,UEFA Europa League,2010-04-29,Liverpool FC,Atletico Madrid,2,1,2009/10,Away,2010,4,1,2,-1,Loss
+733,Spain Liga,2010-04-25,Atletico Madrid,Tenerife,3,1,2009/10,Home,2010,4,3,1,2,Win
+734,UEFA Europa League,2010-04-22,Atletico Madrid,Liverpool FC,1,0,2009/10,Home,2010,4,1,0,1,Win
+735,Spain Liga,2010-04-17,Villarreal,Atletico Madrid,2,1,2009/10,Away,2010,4,1,2,-1,Loss
+736,Spain Liga,2010-04-14,Atletico Madrid,Deportivo Xerez,1,2,2009/10,Home,2010,4,1,2,-1,Loss
+737,Spain Liga,2010-04-11,RCD Espanyol,Atletico Madrid,3,0,2009/10,Away,2010,4,0,3,-3,Loss
+738,UEFA Europa League,2010-04-08,Atletico Madrid,Valencia,0,0,2009/10,Home,2010,4,0,0,0,Draw
+739,Spain Liga,2010-04-04,Atletico Madrid,Deportivo La Coruna,3,0,2009/10,Home,2010,4,3,0,3,Win
+740,UEFA Europa League,2010-04-01,Valencia,Atletico Madrid,2,2,2009/10,Away,2010,4,2,2,0,Draw
+741,Spain Liga,2010-03-28,Real Madrid,Atletico Madrid,3,2,2009/10,Away,2010,3,2,3,-1,Loss
+742,Spain Liga,2010-03-25,Atletico Madrid,Athletic Bilbao,2,0,2009/10,Home,2010,3,2,0,2,Win
+743,Spain Liga,2010-03-21,Mallorca,Atletico Madrid,4,1,2009/10,Away,2010,3,1,4,-3,Loss
+744,UEFA Europa League,2010-03-18,Sporting,Atletico Madrid,2,2,2009/10,Away,2010,3,2,2,0,Draw
+745,Spain Liga,2010-03-15,Atletico Madrid,Osasuna,1,0,2009/10,Home,2010,3,1,0,1,Win
+746,UEFA Europa League,2010-03-11,Atletico Madrid,Sporting,0,0,2009/10,Home,2010,3,0,0,0,Draw
+747,Spain Liga,2010-03-07,Real Zaragoza,Atletico Madrid,1,1,2009/10,Away,2010,3,1,1,0,Draw
+748,Spain Liga,2010-02-28,Atletico Madrid,Valencia,4,1,2009/10,Home,2010,2,4,1,3,Win
+749,UEFA Europa League,2010-02-25,Galatasaray,Atletico Madrid,1,2,2009/10,Away,2010,2,2,1,1,Win
+750,Spain Liga,2010-02-21,Almeria,Atletico Madrid,1,0,2009/10,Away,2010,2,0,1,-1,Loss
+751,UEFA Europa League,2010-02-18,Atletico Madrid,Galatasaray,1,1,2009/10,Home,2010,2,1,1,0,Draw
+752,Spain Liga,2010-02-14,Atletico Madrid,Barcelona,2,1,2009/10,Home,2010,2,2,1,1,Win
+753,Spain Liga,2010-02-07,Racing Santander,Atletico Madrid,1,1,2009/10,Away,2010,2,1,1,0,Draw
+754,Spain Liga,2010-01-31,Atletico Madrid,Malaga,0,2,2009/10,Home,2010,1,0,2,-2,Loss
+755,Spain Liga,2010-01-24,Getafe,Atletico Madrid,1,0,2009/10,Away,2010,1,0,1,-1,Loss
+756,Spain Liga,2010-01-17,Atletico Madrid,Sporting Gijon,3,2,2009/10,Home,2010,1,3,2,1,Win
+757,Spain Liga,2010-01-09,Real Valladolid,Atletico Madrid,0,4,2009/10,Away,2010,1,4,0,4,Win
+758,Spain Liga,2010-01-02,Atletico Madrid,Sevilla,2,1,2009/10,Home,2010,1,2,1,1,Win
+759,Spain Liga,2009-12-20,Tenerife,Atletico Madrid,1,1,2009/10,Away,2009,12,1,1,0,Draw
+760,Spain Liga,2009-12-13,Atletico Madrid,Villarreal,1,2,2009/10,Home,2009,12,1,2,-1,Loss
+761,UEFA Champions League,2009-12-08,Atletico Madrid,FC Porto,0,3,2009/10,Home,2009,12,0,3,-3,Loss
+762,Spain Liga,2009-12-05,Deportivo Xerez,Atletico Madrid,0,2,2009/10,Away,2009,12,2,0,2,Win
+763,Spain Liga,2009-11-29,Atletico Madrid,RCD Espanyol,4,0,2009/10,Home,2009,11,4,0,4,Win
+764,UEFA Champions League,2009-11-25,APOEL Nicosia,Atletico Madrid,1,1,2009/10,Away,2009,11,1,1,0,Draw
+765,Spain Liga,2009-11-21,Deportivo La Coruna,Atletico Madrid,2,1,2009/10,Away,2009,11,1,2,-1,Loss
+766,Spain Liga,2009-11-07,Atletico Madrid,Real Madrid,2,3,2009/10,Home,2009,11,2,3,-1,Loss
+767,UEFA Champions League,2009-11-03,Atletico Madrid,Chelsea FC,2,2,2009/10,Home,2009,11,2,2,0,Draw
+768,Spain Liga,2009-10-31,Athletic Bilbao,Atletico Madrid,1,0,2009/10,Away,2009,10,0,1,-1,Loss
+769,Spain Liga,2009-10-24,Atletico Madrid,Mallorca,1,1,2009/10,Home,2009,10,1,1,0,Draw
+770,UEFA Champions League,2009-10-21,Chelsea FC,Atletico Madrid,4,0,2009/10,Away,2009,10,0,4,-4,Loss
+771,Spain Liga,2009-10-18,Osasuna,Atletico Madrid,3,0,2009/10,Away,2009,10,0,3,-3,Loss
+772,Spain Liga,2009-10-03,Atletico Madrid,Real Zaragoza,2,1,2009/10,Home,2009,10,2,1,1,Win
+773,UEFA Champions League,2009-09-30,FC Porto,Atletico Madrid,2,0,2009/10,Away,2009,9,0,2,-2,Loss
+774,Spain Liga,2009-09-26,Valencia,Atletico Madrid,2,2,2009/10,Away,2009,9,2,2,0,Draw
+775,Spain Liga,2009-09-23,Atletico Madrid,Almeria,2,2,2009/10,Home,2009,9,2,2,0,Draw
+776,Spain Liga,2009-09-19,Barcelona,Atletico Madrid,5,2,2009/10,Away,2009,9,2,5,-3,Loss
+777,UEFA Champions League,2009-09-15,Atletico Madrid,APOEL Nicosia,0,0,2009/10,Home,2009,9,0,0,0,Draw
+778,Spain Liga,2009-09-12,Atletico Madrid,Racing Santander,1,1,2009/10,Home,2009,9,1,1,0,Draw
+779,Spain Liga,2009-08-30,Malaga,Atletico Madrid,3,0,2009/10,Away,2009,8,0,3,-3,Loss
+780,UEFA Champions League,2009-08-25,Atletico Madrid,Panathinaikos,2,0,2009/10,Home,2009,8,2,0,2,Win
+781,UEFA Champions League,2009-08-19,Panathinaikos,Atletico Madrid,2,3,2009/10,Away,2009,8,3,2,1,Win
